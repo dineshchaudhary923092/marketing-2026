@@ -1,8 +1,8 @@
 # Aanya Taara Content Pack
 
 ## Project Positioning
-- Project: Showcase website for Aanya Taara, a small resort in Ooty, Nilgiri Hills
-- Angle: Refined portfolio presentation with a luxury mood, fast feel, and clear brand personality
+- Project: Aanya Taara resort website
+- Angle: Premium hospitality showcase with a calm, refined visual rhythm
 - Voice: Minimal, studio-led, and elegant
 - Perspective: We
 - Language: English only
@@ -10,24 +10,29 @@
 
 ## Asset Mapping
 - LinkedIn: Consolidated project post using the overall project story
-- Social Post 1: `social media/01.jpg` to `social media/09.jpg`
-- Social Post 2: `social media/201.jpg` to `social media/203.jpg`
-- Dribbble-style platforms: `dribbble/cover.jpg`, `dribbble/01.jpg` to `dribbble/10.jpg`, `dribbble/full.jpg`
+- Facebook: Clear credibility-focused project post with a softer explanatory tone
+- Instagram Post 1: `social media/01.jpg` to `social media/09.jpg`
+- Instagram Post 2: `social media/201.jpg` to `social media/203.jpg`
+- X: Short project posts based on the website direction
+- Threads: Shorter, more human project notes
+- Dribbble: `dribbble/cover.jpg`, `dribbble/01.jpg` to `dribbble/10.jpg`, `dribbble/full.jpg`, `dribbble/03.png`
+- Behance: Full project narrative with the strongest screens and supporting context
+- Pinterest: Searchable portfolio pin copy for hospitality and resort design
 
 ## LinkedIn
 **Post**
 
-We designed Aanya Taara as a calm, design-forward digital showcase for a resort set in Ooty, Nilgiri Hills.
+We designed Aanya Taara as a refined digital showcase for a resort in Ooty, Nilgiri Hills.
 
-The direction was intentionally restrained: rich imagery, spacious composition, and a visual rhythm that lets the property feel immersive without overcomplicating the experience. We wanted the website to feel elevated from the first screen while still moving with clarity and speed.
+The direction was deliberately restrained: premium imagery, spacious composition, and a visual rhythm that lets the property feel calm, elevated, and easy to explore. The goal was to give the brand a polished online presence that feels aligned with the resort's identity without overcomplicating the experience.
 
-Projects like this are less about adding noise and more about shaping presence. The goal was to give the brand a polished online expression that feels premium, memorable, and easy to navigate.
+Projects like this are less about adding noise and more about shaping presence. The website needed to feel premium, clear, and visually grounded from the first screen.
 
-View the full project in our portfolio.
+Need a more refined resort presence? Visit Craftnotion to explore more.
 
 **Hashtags**
 
-`#WebDesign #UIDesign #HospitalityDesign #PortfolioProject`
+#WebDesign #UIDesign #HospitalityDesign #PortfolioProject
 
 ## Facebook
 ### Post 1
@@ -35,15 +40,15 @@ View the full project in our portfolio.
 
 **Caption**
 
-Aanya Taara was designed as a quiet, premium web experience for a resort in Ooty. We kept the interface clean, image-led, and spacious so the mood of the property could carry the story.
+Aanya Taara was designed as a calm, premium web experience for a resort in Ooty. We kept the interface image-led, spacious, and clean so the atmosphere of the property could lead the story.
 
-This project is all about presence: soft luxury, clear structure, and a website that feels polished without trying too hard.
+This project is about presence: refined layouts, a soft luxury feel, and a website that reflects the brand without unnecessary visual clutter.
 
-See the project in our portfolio.
+Looking to elevate a hospitality brand? Visit Craftnotion to explore more.
 
 **Hashtags**
 
-`#ResortWebsiteDesign #HospitalityWebDesign #WebDesign #Ooty`
+#ResortWebsiteDesign #HospitalityWebDesign #WebDesign #Ooty
 
 ### Post 2
 - Assets: `social media/201.jpg` to `social media/203.jpg`
@@ -52,13 +57,13 @@ See the project in our portfolio.
 
 A shorter look at Aanya Taara and the visual personality behind the site.
 
-We focused on elegant pacing, refined layouts, and a brand feel that matches the calm atmosphere of a boutique stay in the Nilgiris. Minimal, fast, and visually grounded.
+We focused on elegant pacing, clean structure, and a brand feel that matches the calm atmosphere of a boutique stay in the Nilgiris. Minimal, fast, and visually grounded.
 
-Explore the full project on our website.
+Want a cleaner, calmer web experience? Visit Craftnotion to explore more.
 
 **Hashtags**
 
-`#BoutiqueResortWebsite #UIShowcase #BrandLedDesign #PortfolioWork`
+#BoutiqueResortWebsite #UIShowcase #BrandLedDesign #PortfolioWork
 
 ## Instagram
 ### Post 1
@@ -70,13 +75,13 @@ Aanya Taara.
 
 A resort website shaped around atmosphere, clean structure, and a more refined visual pace. We wanted the experience to feel quiet, premium, and image-led from the first screen to the last.
 
-Designed for a small resort in Ooty, Nilgiri Hills.
+Designed for a resort in Ooty, Nilgiri Hills.
 
-View the full project in our portfolio.
+Want a more premium first impression? Visit Craftnotion to explore more.
 
 **Hashtags**
 
-`#ResortWebsite #HospitalityDesign #WebDesignStudio #OotyResort`
+#ResortWebsite #HospitalityDesign #WebDesignStudio #OotyResort
 
 ### Post 2
 - Assets: `social media/201.jpg` to `social media/203.jpg`
@@ -87,11 +92,11 @@ A more distilled look at Aanya Taara.
 
 Soft layouts, brand character, and a polished digital mood built to feel elegant without excess. One of those projects where restraint does most of the work.
 
-Full project on our website.
+If restraint is the brief, Visit Craftnotion to explore more.
 
 **Hashtags**
 
-`#LuxuryWebsiteDesign #BoutiqueHospitality #UIDetails #CreativePortfolio`
+#LuxuryWebsiteDesign #BoutiqueHospitality #UIDetails #CreativePortfolio
 
 ## X
 ### Post 1
@@ -101,7 +106,7 @@ Full project on our website.
 
 Designed Aanya Taara as a refined showcase website for a resort in Ooty, Nilgiri Hills. Clean layouts, immersive imagery, and a premium feel without unnecessary noise.
 
-Full project in our portfolio.
+Need stronger visual presence online? Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/201.jpg` to `social media/203.jpg`
@@ -110,7 +115,7 @@ Full project in our portfolio.
 
 Aanya Taara is a quieter kind of web project. Minimal, polished, and shaped around mood, pace, and brand presence.
 
-See the full case in our portfolio.
+Looking for clearer, calmer digital design? Visit Craftnotion to explore more.
 
 ## Threads
 ### Post 1
@@ -122,7 +127,7 @@ We wanted Aanya Taara to feel calm the moment the website opens.
 
 Not overloaded. Not trying too hard. Just a premium, image-led experience for a resort in Ooty with enough structure to keep everything feeling clear and effortless.
 
-Full project lives on our portfolio.
+Want a more polished web direction? Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/201.jpg` to `social media/203.jpg`
@@ -133,7 +138,7 @@ Some projects work best when the design steps back a little.
 
 Aanya Taara is one of those. Refined layout decisions, a softer visual rhythm, and a brand presence that carries through the whole website.
 
-More from the project on our website.
+If your brand needs more presence, Visit Craftnotion to explore more.
 
 ## Dribbble
 **Title**
@@ -142,17 +147,17 @@ Aanya Taara Resort Website Design
 
 **Description**
 
-Aanya Taara is a showcase website for a small resort in Ooty, Nilgiri Hills. We approached the project with a minimal, image-led direction to create a digital experience that feels calm, premium, and visually immersive.
+Aanya Taara is a showcase website for a resort in Ooty, Nilgiri Hills. The design uses a minimal, image-led direction to create a calm, premium, and visually immersive experience.
 
-The design focuses on spacious layouts, refined typography, and a gentle content rhythm that lets the brand personality come through without excess. The result is a hospitality web presentation built around atmosphere, clarity, and speed.
+The layout focuses on spacious composition, refined typography, and a softer browsing rhythm that lets the property feel elevated without excess. The result is a hospitality web presentation built around atmosphere, clarity, and speed.
 
 **Tags**
 
-`resort website`, `hospitality design`, `hotel website`, `web design`, `ui design`, `landing page`, `luxury website`, `travel website`, `portfolio`, `dribbble`
+resort website, hospitality design, hotel website, web design, ui design, landing page, luxury website, travel website, portfolio, dribbble
 
 **CTA**
 
-View the full project and case-study details in our portfolio.
+Need a more credible hospitality website? Visit Craftnotion to explore more.
 
 ## Behance
 **Title**
@@ -161,7 +166,7 @@ Aanya Taara: Resort Website Showcase
 
 **Overview**
 
-Aanya Taara is a web design project created for a small resort in Ooty, Nilgiri Hills. The intention was to build a digital presence that feels refined, calm, and visually immersive while keeping the interface simple and direct.
+Aanya Taara is a resort website design project created for a property in Ooty, Nilgiri Hills. The goal was to build a digital presence that feels refined, calm, and visually immersive while keeping the interface simple and direct.
 
 Rather than crowding the experience with too much structure, we leaned into spacious compositions, a soft luxury mood, and a presentation style that lets the property imagery and brand tone lead the experience.
 
@@ -175,7 +180,7 @@ Web Design, UI Design, Visual Direction, Responsive Showcase Design
 
 **CTA**
 
-See the full project on our portfolio website.
+Want a more refined digital showcase? Visit Craftnotion to explore more.
 
 ## Pinterest
 **Title**
@@ -184,11 +189,11 @@ Aanya Taara Resort Website Design in Ooty
 
 **Description**
 
-A refined hospitality website design for Aanya Taara, a small resort in Ooty, Nilgiri Hills. This project explores a calm luxury visual style through clean layouts, immersive imagery, and a polished digital brand presence. Ideal inspiration for resort website design, boutique hotel websites, and hospitality UI design.
+A refined hospitality website design for Aanya Taara, a resort in Ooty, Nilgiri Hills. This project explores a calm luxury visual style through clean layouts, immersive imagery, and a polished digital brand presence. Ideal inspiration for resort website design, boutique hotel websites, and hospitality UI design.
 
 **Search Tags**
 
-`resort website design`, `hospitality website design`, `boutique resort website`, `luxury hotel web design`, `ooty resort website design`, `travel website inspiration`, `hotel ui design`, `landing page design`
+resort website design, hospitality website design, boutique resort website, luxury hotel web design, ooty resort website design, travel website inspiration, hotel ui design, landing page design
 
 ## Website SEO Pack
 **SEO Title**
@@ -197,7 +202,7 @@ Aanya Taara Resort Website Design | Hospitality Web Project
 
 **Meta Description**
 
-Explore Aanya Taara, a refined resort website design project for a small property in Ooty, Nilgiri Hills, shaped around premium visuals, clarity, and speed.
+Explore Aanya Taara, a refined resort website design project for a property in Ooty, Nilgiri Hills, shaped around premium visuals, clarity, and speed.
 
 **Slug Options**
 
@@ -211,7 +216,7 @@ Aanya Taara Resort Website Design
 
 **Short Summary**
 
-Aanya Taara is a hospitality web design project created for a small resort in Ooty, Nilgiri Hills. We designed the website as a calm, premium showcase with spacious layouts, strong imagery, and a polished brand-led visual tone.
+Aanya Taara is a hospitality web design project created for a resort in Ooty, Nilgiri Hills. We designed the website as a calm, premium showcase with spacious layouts, strong imagery, and a polished brand-led visual tone.
 
 **Primary Keyword**
 
@@ -235,6 +240,6 @@ Aanya Taara is a hospitality web design project created for a small resort in Oo
 - `Full page web design presentation for Aanya Taara resort website`
 
 ## Notes
-- Keep CTAs soft and portfolio-oriented when publishing.
+- Keep CTAs direct and client-focused when publishing.
 - If a platform needs shorter copy, trim the final CTA before cutting the descriptive lines.
 - If hashtags need to be removed for a cleaner post format, keep the main caption unchanged.
