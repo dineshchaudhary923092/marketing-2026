@@ -5,11 +5,11 @@ Use this file to capture the inputs needed to generate social media, portfolio, 
 For the full master question set, see [../content-questionnaire.md](../content-questionnaire.md).
 
 ## Basics
-- Project name:
-- Type:
+- Project name: Mylo
+- Type: Encrypted chat and location based friends group
 - Client / Brand:
-- Industry:
-- Stage:
+- Industry: Chatting and Location
+- Stage: Done and delivered 5 years ago
 
 ## Context
 - Problem:
