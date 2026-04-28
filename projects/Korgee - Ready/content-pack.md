@@ -8,6 +8,11 @@
 - Language: English only
 - Emojis: None
 
+## Core Narrative
+- Primary story: A language learning experience positioned around practical Korean phrases for real travel situations.
+- Business relevance: The work makes the product more useful by connecting lessons to context, actions, and everyday traveler needs.
+- Split-post logic: Social posts separate the learning concept from dashboard, phrase, and usage-flow details.
+
 ## Asset Mapping
 - LinkedIn: Product story focused on real-world Korean learning for travelers
 - Facebook: Clear explanation of the learning experience and who it is for
@@ -28,7 +33,6 @@ Instead of generic grammar drills, the product focuses on real situations like a
 
 The goal was simple: turn language learning into something more contextual and less abstract.
 
-Need a more useful learning experience? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -44,7 +48,6 @@ Korgee was designed for people who want to learn Korean in a practical, travel-f
 
 The experience focuses on real-world situations and everyday phrases, helping users prepare for the moments they actually need to handle in Korea.
 
-Want a practical language product? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -59,7 +62,6 @@ A closer look at Korgee and the visual direction behind the platform.
 
 We kept the interface light, friendly, and easy to scan so the learning flow feels approachable for travelers, K-pop fans, and K-drama viewers preparing for a trip to Korea.
 
-Need a friendlier learning interface? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -77,7 +79,6 @@ A Korean learning product designed around real travel situations, not just gramm
 
 Practical phrases. Clear structure. A learning flow that feels easy to follow.
 
-Need a more contextual learning flow? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -92,7 +93,6 @@ Korgee needed to feel useful fast.
 
 That shaped the whole product: contextual lessons, simple navigation, and a dashboard that stays out of the way.
 
-Want a smarter language platform? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -108,7 +108,6 @@ Korgee is built around a simple idea:
 
 teach Korean through the situations travelers actually face.
 
-Need a sharper edtech concept? Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/m2.jpg`, `social media/m3.jpg`, `social media/m4.jpg`
@@ -119,7 +118,6 @@ Language learning gets easier when it is tied to context.
 
 That was the design direction behind Korgee.
 
-Need a better way to teach context? Visit Craftnotion to explore more.
 
 ## Threads
 ### Post 1
@@ -131,7 +129,6 @@ Most language products try to teach too much theory first.
 
 Korgee does the opposite. It starts with real situations and builds confidence from there.
 
-Need learning that feels practical? Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/m2.jpg`, `social media/m3.jpg`, `social media/m4.jpg`
@@ -142,7 +139,6 @@ The strongest learning tools usually feel practical before they feel impressive.
 
 That was the balance with Korgee.
 
-Need a more usable product story? Visit Craftnotion to explore more.
 
 ## Dribbble
 ### Post 1 - Website
@@ -163,7 +159,7 @@ language learning, edtech design, web design, korean learning, travel learning, 
 
 **CTA**
 
-Need a more useful learning experience? Visit Craftnotion to explore more.
+Planning a learning product? Start with context, structure, and everyday use.
 
 ### Post 2 - Dashboard
 
@@ -183,7 +179,7 @@ dashboard design, web app, product ui, product design, language platform, learni
 
 **CTA**
 
-Need a friendlier learning interface? Visit Craftnotion to explore more.
+Planning a learning product? Start with context, structure, and everyday use.
 
 ## Behance
 **Title**
@@ -206,7 +202,7 @@ Web Design, UI Design, Dashboard Direction, Product Structure
 
 **CTA**
 
-Want a more structured language product? Visit Craftnotion to explore more.
+Planning a learning product? Start with context, structure, and everyday use.
 
 ## Pinterest
 **Title**
@@ -264,6 +260,11 @@ korean learning app
 - `Korgee dashboard interface for contextual Korean learning`
 - `Web app section highlighting real-world Korean conversation practice`
 - `Korgee product UI designed for travelers learning Korean`
+
+## CTA Recommendations
+- Use direct Craftnotion CTAs selectively instead of closing every social post with the same line.
+- Let stronger social posts end on the project insight when that feels more premium.
+- Keep portfolio CTAs calm, category-aware, and secondary to the project story.
 
 ## Notes
 - Keep the travel-use case central in public-facing copy.

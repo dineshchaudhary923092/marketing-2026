@@ -2,41 +2,44 @@
 
 ## Project Positioning
 - Project: Mylo
-- Angle: Privacy-focused mobile messaging app for buddies, groups, location-aware connections, and privacy-focused social communication
+- Angle: Privacy-focused mobile messaging app for buddies, groups, location-aware connections, and private social communication
 - Voice: Private, modern, and product-led
 - Perspective: We
 - Language: English only
 - Emojis: None
 
 ## Core Narrative
-- Primary story: A mobile messaging app interface organized around private communication, buddy groups, location-aware controls, and account flows.
+- Primary story: A mobile messaging app interface built around private communication, buddy groups, location-aware controls, and supporting account flows.
 - Business relevance: The work frames a trust-sensitive mobile product through clearer onboarding, readable controls, and privacy-led product structure.
-- Split-post logic: Social posts separate the app concept from onboarding, profile, and privacy-control screens.
+- Split-post logic: Social posts separate the core chat experience from onboarding, profile, and privacy-control screens.
 
 ## Asset Mapping
-- LinkedIn: Product story focused on privacy-focused communication and location-aware social groups
-- Facebook: Clear explanation of the app experience and privacy-led interface
+- LinkedIn: Product story focused on privacy-aware communication and location-sensitive social groups
+- Facebook Post 1: `social media/cover.jpg`, `social media/01.jpg`
+- Facebook Post 2: `social media/02.jpg`, `social media/03.jpg`
 - Instagram Post 1: `social media/cover.jpg`, `social media/01.jpg`
 - Instagram Post 2: `social media/02.jpg`, `social media/03.jpg`
-- X: Short mobile app and privacy-focused product posts
-- Threads: Compact observations about private social messaging and proximity features
-- Dribbble: `dribbble/01.jpg` to `dribbble/04.jpg`
+- X Post 1: `social media/cover.jpg`, `social media/01.jpg`
+- X Post 2: `social media/02.jpg`, `social media/03.jpg`
+- Threads Post 1: `social media/cover.jpg`, `social media/01.jpg`
+- Threads Post 2: `social media/02.jpg`, `social media/03.jpg`
+- Dribbble Post 1: `dribbble/01.jpg` to `dribbble/04.jpg`
+- Dribbble Post 2: `dribbble/01.jpg` to `dribbble/04.jpg`
 - Behance: Mobile app showcase for privacy-focused messaging, buddies, groups, and profile controls
-- Pinterest: Searchable encrypted chat / mobile messaging UI inspiration copy
+- Pinterest: Searchable private messaging / mobile chat UI inspiration copy
 
 ## LinkedIn
 **Post**
 
-We designed Mylo as a privacy-focused mobile messaging app built around private communication, nearby buddies, and group-based connection.
+We designed Mylo as a privacy-focused mobile messaging app built around private conversations, buddy groups, nearby connections, and supporting account controls.
 
-The app experience includes onboarding, sign in, OTP, buddy lists, group conversations, calls, new message flows, profile settings, alert radius, ghost mode, and security controls. The goal was to make privacy feel visible without making the product feel heavy or difficult to use.
+The product covers the core chat experience along with onboarding, authentication, buddy requests, calls, profile settings, alert radius, ghost mode, and account security flows. For a messaging product like this, the interface has to feel fast and familiar while still making privacy cues visible and easy to understand.
 
-For a chat product, the interface has to stay fast, familiar, and trustworthy. Mylo keeps the visual language dark, focused, and high-contrast so the core actions stay easy to scan.
-
+We kept the visual language dark, focused, and high-contrast so the product feels controlled without becoming difficult to use.
 
 **Hashtags**
 
-#MobileAppDesign #ChatApp #ProductDesign #PortfolioProject
+#MobileAppDesign #MessagingApp #ProductDesign #PrivacyUX
 
 ## Facebook
 ### Post 1
@@ -44,14 +47,13 @@ For a chat product, the interface has to stay fast, familiar, and trustworthy. M
 
 **Caption**
 
-Mylo was designed as a privacy-focused messaging app for private conversations, buddy connections, and location-aware groups.
+Mylo was designed as a privacy-focused messaging app for private conversations, buddy groups, and nearby connections.
 
-The interface keeps the main experience simple: switch between buddies and groups, see nearby connections, and move into conversations without extra friction. The dark UI direction supports the privacy-focused nature of the product while keeping actions clear.
-
+The interface keeps the core experience simple: move between buddies and groups, scan nearby activity, and enter conversations without extra friction. The dark product direction supports the privacy-led positioning while keeping actions clear.
 
 **Hashtags**
 
-#MobileAppDesign #ChatAppDesign #UIUXDesign #ProductUI
+#MobileAppDesign #MessagingApp #ProductUI #UIUXDesign
 
 ### Post 2
 - Assets: `social media/02.jpg`, `social media/03.jpg`
@@ -60,12 +62,11 @@ The interface keeps the main experience simple: switch between buddies and group
 
 A closer look at the supporting flows behind Mylo.
 
-The product includes sign in, account creation, OTP, password reset, call screens, buddy requests, profile settings, alert radius, ghost mode, and password controls. Each flow was designed to feel controlled, direct, and easy to understand on mobile.
-
+The product also includes onboarding, sign in, OTP, password reset, calls, buddy requests, profile settings, alert radius, ghost mode, and account controls. These flows were designed to feel controlled, readable, and easy to understand on mobile.
 
 **Hashtags**
 
-#AppUI #MessagingApp #MobileUX #PortfolioWork
+#MobileUX #AppUI #PrivacyApp #ProductDesign
 
 ## Instagram
 ### Post 1
@@ -75,30 +76,28 @@ The product includes sign in, account creation, OTP, password reset, call screen
 
 Mylo.
 
-A privacy-focused mobile messaging app designed around buddies, groups, nearby connections, and private communication.
+A privacy-focused mobile messaging app built around buddies, groups, nearby connections, and private communication.
 
-Dark UI. Clear actions. A social experience built around confidence.
-
+Dark UI. Clear actions. A chat experience shaped around confidence.
 
 **Hashtags**
 
-#MobileAppDesign #ChatApp #AppDesign #UIUXDesign
+#MobileAppDesign #MessagingApp #AppDesign #UIUXDesign
 
 ### Post 2
 - Assets: `social media/02.jpg`, `social media/03.jpg`
 
 **Caption**
 
-Mylo needed more than a good chat screen.
+A chat product is never just the chat screen.
 
-The product also needed account flows, security controls, calls, buddy requests, profile settings, and location privacy options.
+Mylo also needed onboarding, account flows, privacy controls, calls, buddy requests, and profile settings that stayed easy to understand.
 
 That made clarity just as important as visual polish.
 
-
 **Hashtags**
 
-#ProductDesign #MobileUI #MessagingAppDesign #CreativePortfolio
+#ProductDesign #MobileUI #MessagingAppDesign #PrivacyUX
 
 ## X
 ### Post 1
@@ -106,20 +105,20 @@ That made clarity just as important as visual polish.
 
 **Post**
 
-Mylo is a privacy-focused mobile messaging app for buddies, groups, and nearby connections.
+Privacy-focused apps still need to feel familiar.
 
-The interface was shaped around fast scanning, privacy cues, and clear communication flows.
-
+Mylo was designed around private chats, buddy groups, nearby connections, and a fast-scanning interface that keeps the main actions easy to follow.
 
 ### Post 2
 - Assets: `social media/02.jpg`, `social media/03.jpg`
 
 **Post**
 
-Privacy-focused apps still need to feel familiar.
+In messaging products, trust is built in the supporting flows too.
 
-Mylo balances dark UI, location controls, account security, and simple messaging flows.
+Onboarding, profile settings, location controls, and security screens all have to feel simple and readable.
 
+That shaped Mylo.
 
 ## Threads
 ### Post 1
@@ -129,8 +128,9 @@ Mylo balances dark UI, location controls, account security, and simple messaging
 
 Privacy-focused messaging products have to earn trust quickly.
 
-Mylo does that through clear chat lists, nearby indicators, group structure, and privacy-focused visual cues.
+That is not only about visual style. It is also about whether the core chat experience feels clear, readable, and easy to move through.
 
+That was the direction behind Mylo.
 
 ### Post 2
 - Assets: `social media/02.jpg`, `social media/03.jpg`
@@ -139,10 +139,9 @@ Mylo does that through clear chat lists, nearby indicators, group structure, and
 
 The hardest parts of a chat app are often the flows around the chat.
 
-Sign in, OTP, profile settings, calls, security, and privacy controls all need to feel simple.
+Sign in, OTP, calls, profile settings, security, and privacy controls all need to feel simple too.
 
-That was the focus with Mylo.
-
+That was a big part of shaping Mylo.
 
 ## Dribbble
 ### Post 1 - Chat Experience
@@ -153,13 +152,13 @@ Mylo Privacy-Focused Messaging App UI Design
 
 **Description**
 
-Mylo is a privacy-focused mobile messaging app designed around private conversations, buddies, groups, and nearby connection indicators.
+Mylo is a privacy-focused mobile messaging app designed around private conversations, buddy groups, and nearby connection indicators.
 
 The interface uses a dark visual system, high-contrast action states, and clear list patterns so users can move between personal chats and group communication quickly.
 
 **Tags**
 
-mobile app design, chat app, messaging app, app ui, product design, dark ui, social app, mobile ux, portfolio, dribbble
+mobile app design, chat app, messaging app, app ui, product design, dark ui, privacy app, social app, mobile ux, dribbble
 
 **CTA**
 
@@ -169,17 +168,17 @@ Planning a privacy-aware mobile app? Start with clear controls and readable flow
 
 **Title**
 
-Mylo Mobile App Security Flow Design
+Mylo Mobile App Account and Privacy Flow Design
 
 **Description**
 
-The Mylo app also includes account creation, sign in, OTP, password reset, profile settings, alert radius, ghost mode, and password controls.
+The Mylo app also includes onboarding, sign in, OTP, password reset, profile settings, alert radius, ghost mode, and supporting account controls.
 
-These supporting flows were designed to keep the privacy-focused product easy to understand and simple to use.
+These flows were designed to keep a privacy-focused product easy to understand and simple to use on mobile.
 
 **Tags**
 
-mobile ux, app flow, privacy-aware app, privacy app, onboarding design, profile settings, product ui, mobile design, portfolio, dribbble
+mobile ux, app flow, privacy-aware app, onboarding design, profile settings, privacy controls, product ui, mobile design, portfolio, dribbble
 
 **CTA**
 
@@ -194,7 +193,7 @@ Mylo: Privacy-Focused Messaging Mobile App Showcase
 
 Mylo is a privacy-focused mobile messaging app designed for private conversations, nearby buddy discovery, and group-based communication.
 
-The project covers the core messaging experience along with onboarding, authentication, buddy requests, calls, profile settings, security controls, and location privacy features.
+The project covers the core messaging experience along with onboarding, authentication, buddy requests, calls, profile settings, security controls, and location-aware privacy features.
 
 **Creative Direction**
 
@@ -242,7 +241,7 @@ Mylo Privacy-Focused Messaging Mobile App Design
 
 **Short Summary**
 
-Mylo is a privacy-focused mobile messaging app designed around private conversations, buddy lists, group chats, nearby connection indicators, calls, account flows, and privacy controls.
+Mylo is a privacy-focused mobile messaging app designed around private conversations, buddy lists, group chats, nearby connection indicators, calls, onboarding, account flows, and privacy controls.
 
 **Primary Keyword**
 

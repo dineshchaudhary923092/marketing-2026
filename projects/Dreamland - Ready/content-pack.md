@@ -8,6 +8,11 @@
 - Language: English only
 - Emojis: None
 
+## Core Narrative
+- Primary story: A preschool website built to help parents understand care, learning stages, admissions, and trust signals more quickly.
+- Business relevance: The work supports parent confidence by making the childcare offer easier to evaluate before booking a visit.
+- Split-post logic: Social posts separate the full website story from admissions, environment, and program clarity.
+
 ## Asset Mapping
 - LinkedIn: Credibility-focused project post with clear school-readiness and family value framing
 - Facebook: Parent-friendly explanation of the preschool program and admissions flow
@@ -28,7 +33,6 @@ The site was structured around clarity and trust: a welcoming homepage, clear pr
 
 For projects like this, the website has to do more than look good. It has to help families feel reassured quickly and move forward with confidence.
 
-Need a more parent-friendly website? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -44,7 +48,6 @@ Dreamland Childcare was designed as a warm, trustworthy preschool website for fa
 
 The focus was simple: build trust, make the preschool feel approachable, and support a strong first impression for families with children aged 2 to 4.
 
-Looking to build trust faster online? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -59,7 +62,6 @@ A closer look at Dreamland Childcare and the visual direction behind the site.
 
 The website was shaped to feel calm, caring, and parent-friendly while also supporting SEO clarity for Bolton, Ontario searches. The result is a preschool website that feels easy to trust and simple to explore.
 
-Need a clearer admissions journey? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -77,7 +79,6 @@ A preschool website designed to feel warm, clear, and reassuring for parents loo
 
 Built around trust, easy navigation, and a gentle learning-focused tone.
 
-Want a warmer first impression? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -92,7 +93,6 @@ Dreamland Childcare is built around one simple idea: make the preschool feel saf
 
 Clear sections, soft visuals, and parent-friendly language help the website support both trust and admissions.
 
-If you want more clarity for parents, Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -108,7 +108,6 @@ Dreamland Childcare was designed as a warm preschool website for families in Bol
 
 The priority was clarity: program structure, learning approach, admissions, and contact all needed to feel easy to understand.
 
-Need a preschool website with more trust? Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/m1.jpg` to `social media/m8.jpg`
@@ -119,7 +118,6 @@ For preschool websites, trust matters as much as visuals.
 
 Dreamland Childcare was shaped to feel calm, parent-friendly, and simple to navigate.
 
-Looking for a calmer digital presence? Visit Craftnotion to explore more.
 
 ## Threads
 ### Post 1
@@ -131,7 +129,6 @@ Some websites need to reassure before they persuade.
 
 Dreamland Childcare is one of those. The whole experience was shaped to feel warm, simple, and clear for parents looking at preschool options in Bolton.
 
-Want a simpler, friendlier website? Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/m1.jpg` to `social media/m8.jpg`
@@ -144,7 +141,6 @@ they explain the program clearly, and they make parents feel comfortable.
 
 That was the balance we aimed for with Dreamland Childcare.
 
-If your centre needs a stronger online presence, Visit Craftnotion to explore more.
 
 ## Dribbble
 **Title**
@@ -163,7 +159,7 @@ preschool website, childcare website, education design, web design, ui design, s
 
 **CTA**
 
-Need a clearer admissions page? Visit Craftnotion to explore more.
+Planning a more parent-friendly preschool website? Start with trust and admissions clarity.
 
 ## Behance
 **Title**
@@ -186,7 +182,7 @@ Web Design, UI Design, Content Structure, SEO-Aligned Page Planning
 
 **CTA**
 
-Want a more reassuring web experience? Visit Craftnotion to explore more.
+Planning a more parent-friendly preschool website? Start with trust and admissions clarity.
 
 ## Pinterest
 **Title**
@@ -244,6 +240,11 @@ Dreamland Childcare is a preschool website designed for families in Bolton, Onta
 - `Daily learning and activities page for Dreamland Childcare preschool website`
 - `Gallery preview for a childcare and early learning website design`
 - `Admissions page layout for a preschool website with clear enrollment steps`
+
+## CTA Recommendations
+- Use direct Craftnotion CTAs selectively instead of closing every social post with the same line.
+- Let stronger social posts end on the project insight when that feels more premium.
+- Keep portfolio CTAs calm, category-aware, and secondary to the project story.
 
 ## Page-by-Page Website Content
 

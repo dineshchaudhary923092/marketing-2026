@@ -8,6 +8,11 @@
 - Language: English only
 - Emojis: None
 
+## Core Narrative
+- Primary story: A hospitality website built around calmer browsing, stronger property credibility, and a more refined resort presentation.
+- Business relevance: The work positions the resort through atmosphere, trust, and clear exploration rather than generic travel-site promotion.
+- Split-post logic: Social posts separate the overall resort presence from detail-focused visual presentation.
+
 ## Asset Mapping
 - LinkedIn: Consolidated project post using the overall project story
 - Facebook: Clear credibility-focused project post with a softer explanatory tone
@@ -24,11 +29,10 @@
 
 We designed Aanya Taara as a refined digital showcase for a resort in Ooty, Nilgiri Hills.
 
-The direction was deliberately restrained: premium imagery, spacious composition, and a visual rhythm that lets the property feel calm, elevated, and easy to explore. The goal was to give the brand a polished online presence that feels aligned with the resort's identity without overcomplicating the experience.
+The direction was deliberately restrained: premium imagery, spacious composition, and a visual rhythm that lets the property feel calm, refined, and easy to explore. The goal was to give the brand a polished online presence that feels aligned with the resort's identity without overcomplicating the experience.
 
 Projects like this are less about adding noise and more about shaping presence. The website needed to feel premium, clear, and visually grounded from the first screen.
 
-Need a more refined resort presence? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -44,7 +48,6 @@ Aanya Taara was designed as a calm, premium web experience for a resort in Ooty.
 
 This project is about presence: refined layouts, a soft luxury feel, and a website that reflects the brand without unnecessary visual clutter.
 
-Looking to elevate a hospitality brand? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -59,7 +62,6 @@ A shorter look at Aanya Taara and the visual personality behind the site.
 
 We focused on elegant pacing, clean structure, and a brand feel that matches the calm atmosphere of a boutique stay in the Nilgiris. Minimal, fast, and visually grounded.
 
-Want a cleaner, calmer web experience? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -77,7 +79,6 @@ A resort website shaped around atmosphere, clean structure, and a more refined v
 
 Designed for a resort in Ooty, Nilgiri Hills.
 
-Want a more premium first impression? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -92,7 +93,6 @@ A more distilled look at Aanya Taara.
 
 Soft layouts, brand character, and a polished digital mood built to feel elegant without excess. One of those projects where restraint does most of the work.
 
-If restraint is the brief, Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -106,7 +106,6 @@ If restraint is the brief, Visit Craftnotion to explore more.
 
 Designed Aanya Taara as a refined showcase website for a resort in Ooty, Nilgiri Hills. Clean layouts, immersive imagery, and a premium feel without unnecessary noise.
 
-Need stronger visual presence online? Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/201.jpg` to `social media/203.jpg`
@@ -115,7 +114,6 @@ Need stronger visual presence online? Visit Craftnotion to explore more.
 
 Aanya Taara is a quieter kind of web project. Minimal, polished, and shaped around mood, pace, and brand presence.
 
-Looking for clearer, calmer digital design? Visit Craftnotion to explore more.
 
 ## Threads
 ### Post 1
@@ -127,7 +125,6 @@ We wanted Aanya Taara to feel calm the moment the website opens.
 
 Not overloaded. Not trying too hard. Just a premium, image-led experience for a resort in Ooty with enough structure to keep everything feeling clear and effortless.
 
-Want a more polished web direction? Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/201.jpg` to `social media/203.jpg`
@@ -138,7 +135,6 @@ Some projects work best when the design steps back a little.
 
 Aanya Taara is one of those. Refined layout decisions, a softer visual rhythm, and a brand presence that carries through the whole website.
 
-If your brand needs more presence, Visit Craftnotion to explore more.
 
 ## Dribbble
 **Title**
@@ -149,7 +145,7 @@ Aanya Taara Resort Website Design
 
 Aanya Taara is a showcase website for a resort in Ooty, Nilgiri Hills. The design uses a minimal, image-led direction to create a calm, premium, and visually immersive experience.
 
-The layout focuses on spacious composition, refined typography, and a softer browsing rhythm that lets the property feel elevated without excess. The result is a hospitality web presentation built around atmosphere, clarity, and speed.
+The layout focuses on spacious composition, refined typography, and a softer browsing rhythm that lets the property feel credible without excess. The result is a hospitality web presentation built around atmosphere, clarity, and speed.
 
 **Tags**
 
@@ -157,7 +153,7 @@ resort website, hospitality design, hotel website, web design, ui design, landin
 
 **CTA**
 
-Need a more credible hospitality website? Visit Craftnotion to explore more.
+Planning a clearer hospitality website? Start with atmosphere, trust, and structure.
 
 ## Behance
 **Title**
@@ -180,7 +176,7 @@ Web Design, UI Design, Visual Direction, Responsive Showcase Design
 
 **CTA**
 
-Want a more refined digital showcase? Visit Craftnotion to explore more.
+Planning a clearer hospitality website? Start with atmosphere, trust, and structure.
 
 ## Pinterest
 **Title**
@@ -238,6 +234,11 @@ Aanya Taara is a hospitality web design project created for a resort in Ooty, Ni
 - `Luxury resort website UI with spacious layout and brand-led visual styling`
 - `Responsive showcase design for Aanya Taara hospitality website project`
 - `Full page web design presentation for Aanya Taara resort website`
+
+## CTA Recommendations
+- Use direct Craftnotion CTAs selectively instead of closing every social post with the same line.
+- Let stronger social posts end on the project insight when that feels more premium.
+- Keep portfolio CTAs calm, category-aware, and secondary to the project story.
 
 ## Notes
 - Keep CTAs direct and client-focused when publishing.

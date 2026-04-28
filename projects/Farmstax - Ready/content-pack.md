@@ -8,6 +8,11 @@
 - Language: English only
 - Emojis: None
 
+## Core Narrative
+- Primary story: A farmland investment platform presented through clearer product explanation and a more structured dashboard experience.
+- Business relevance: The work makes a layered investment category easier to understand for buyers, sellers, and administrators without relying on outcome claims.
+- Split-post logic: Social posts separate public platform positioning from dashboard and workflow clarity.
+
 ## Asset Mapping
 - LinkedIn: Project story focused on simplifying farmland investment
 - Facebook: Clear explanation of the platform and who it helps
@@ -28,7 +33,6 @@ The public website was shaped to help buyers explore farmland opportunities, whi
 
 The focus was clarity first: make the model understandable, make the platform feel credible, and keep the experience simple enough for people to move forward with confidence.
 
-Need a clearer product site? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -44,7 +48,6 @@ Farmstax was designed to simplify farmland investment for buyers and sellers.
 
 The public website presents the opportunity clearly, while the private dashboard supports admin, buyer, and seller workflows. The goal was to make a complicated model feel easier to navigate and more trustworthy from the first screen.
 
-Want to simplify a layered product? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -59,7 +62,6 @@ A closer look at Farmstax and the visual direction behind the platform.
 
 We combined a strong public-facing landing experience with a more structured backend flow for the private dashboard. The result is a product presentation that feels direct, organized, and credible.
 
-If clarity matters, Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -77,7 +79,6 @@ A farmland investment platform designed to make a complex idea feel clear, usabl
 
 Public-facing marketing site, private dashboard, and a visual system built around trust.
 
-Need a stronger digital platform? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -94,7 +95,6 @@ clarity for the public site and structure for the private dashboard.
 
 That balance shaped the whole system.
 
-Want the workflow to feel easier? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -110,7 +110,6 @@ Farmstax was built to make farmland investment easier to understand.
 
 The public site explains the opportunity. The private dashboard supports the workflow behind it.
 
-Looking for a sharper platform experience? Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/m2.jpg`, `social media/m3.jpg`, `social media/m4.jpg`
@@ -123,7 +122,6 @@ They are hard because the business model itself is layered.
 
 Farmstax needed clarity at both levels.
 
-If your product needs more structure, Visit Craftnotion to explore more.
 
 ## Threads
 ### Post 1
@@ -137,7 +135,6 @@ It is making a complicated model feel easy to trust.
 
 That was the main job with Farmstax.
 
-Need a cleaner investment experience? Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/m2.jpg`, `social media/m3.jpg`, `social media/m4.jpg`
@@ -150,7 +147,6 @@ what the public sees, and what the private workflow needs.
 
 Both had to feel structured.
 
-Want a more credible product presentation? Visit Craftnotion to explore more.
 
 ## Dribbble
 ### Post 1 - Website
@@ -171,7 +167,7 @@ farmland investment, investment website, web design, ui design, product design, 
 
 **CTA**
 
-Need a clearer product site? Visit Craftnotion to explore more.
+Planning a clearer platform for a layered investment category? Start with audience structure and trust.
 
 ### Post 2 - Dashboard
 
@@ -191,7 +187,7 @@ dashboard design, web app, platform design, product ui, product design, investme
 
 **CTA**
 
-Need a stronger digital platform? Visit Craftnotion to explore more.
+Planning a clearer platform for a layered investment category? Start with audience structure and trust.
 
 ## Behance
 **Title**
@@ -214,7 +210,7 @@ Web Design, UI Design, Product Structure, Dashboard Direction
 
 **CTA**
 
-Need a clearer dashboard direction? Visit Craftnotion to explore more.
+Planning a clearer platform for a layered investment category? Start with audience structure and trust.
 
 ## Pinterest
 **Title**
@@ -272,6 +268,11 @@ farmland investment platform
 - `Farmstax landing page design with farmland illustration and bold headline`
 - `Dashboard-style product interface for a farmland investment platform`
 - `Farmstax web app design for farmland buyers and sellers`
+
+## CTA Recommendations
+- Use direct Craftnotion CTAs selectively instead of closing every social post with the same line.
+- Let stronger social posts end on the project insight when that feels more premium.
+- Keep portfolio CTAs calm, category-aware, and secondary to the project story.
 
 ## Notes
 - Keep the private dashboard called out as private in all public-facing copy.

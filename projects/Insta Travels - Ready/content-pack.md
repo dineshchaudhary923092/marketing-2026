@@ -8,6 +8,11 @@
 - Language: English only
 - Emojis: None
 
+## Core Narrative
+- Primary story: A travel booking marketing website built to make the product feel more credible, direct, and easier to explore.
+- Business relevance: The work supports trust in a booking flow by clarifying the public-facing product experience before users move deeper.
+- Split-post logic: Social posts separate first-impression website direction from booking-page clarity.
+
 ## Asset Mapping
 - LinkedIn: Marketing website story focused on clarity and trust
 - Facebook: Simple explanation of the booking platform and public site role
@@ -28,7 +33,6 @@ The goal was to make the service feel clear, credible, and easy to navigate whil
 
 Projects like this are about more than visuals. They need to help users understand the offer quickly and feel confident enough to continue.
 
-Need a clearer travel brand site? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -44,7 +48,6 @@ Insta Travels was designed as a marketing website for an existing flight booking
 
 The public site needed to feel clear, credible, and easy to explore so users could understand the service quickly and move toward booking with confidence.
 
-Want a more trusted booking experience? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -59,7 +62,6 @@ A closer look at Insta Travels and the visual direction behind the website.
 
 The layout was built to support a fast booking mindset while keeping the travel experience polished and easy to scan.
 
-If you want more booking clarity, Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -75,7 +77,6 @@ Insta Travels.
 
 A flight booking marketing website designed to feel clear, modern, and easy to trust.
 
-Need a stronger first impression? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -90,7 +91,6 @@ The goal with Insta Travels was simple:
 
 make the public website feel more trustworthy and easier to use, while staying visually sharp.
 
-Want a cleaner travel website? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -106,7 +106,6 @@ Insta Travels was designed as a marketing website for a flight booking product.
 
 Clear, credible, and built to support conversion.
 
-If your platform needs more confidence, Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/02.jpg`
@@ -117,7 +116,6 @@ Travel booking sites need to feel fast even before the booking starts.
 
 That was the direction behind Insta Travels.
 
-Need a faster-feeling website? Visit Craftnotion to explore more.
 
 ## Threads
 ### Post 1
@@ -131,7 +129,6 @@ The real job is making the public side of the brand feel as strong as the produc
 
 That was the brief for Insta Travels.
 
-Want a more polished booking page? Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/02.jpg`
@@ -142,7 +139,6 @@ Flight booking is a speed game.
 
 The website has to feel clear quickly or the user moves on.
 
-If the booking journey needs work, Visit Craftnotion to explore more.
 
 ## Dribbble
 **Title**
@@ -161,7 +157,7 @@ travel booking, flight booking, marketing website, travel website, web design, u
 
 **CTA**
 
-Need a clearer product front-end? Visit Craftnotion to explore more.
+Planning a travel product website? Start with booking clarity and trust.
 
 ## Behance
 **Title**
@@ -184,7 +180,7 @@ Web Design, UI Design, Marketing Website Direction
 
 **CTA**
 
-Want a better public face for the product? Visit Craftnotion to explore more.
+Planning a travel product website? Start with booking clarity and trust.
 
 ## Pinterest
 **Title**
@@ -241,6 +237,11 @@ flight booking website
 - `Travel website design for an existing flight booking product`
 - `Insta Travels booking site with clear navigation and polished hero section`
 - `Flight booking marketing website UI with travel-focused visual direction`
+
+## CTA Recommendations
+- Use direct Craftnotion CTAs selectively instead of closing every social post with the same line.
+- Let stronger social posts end on the project insight when that feels more premium.
+- Keep portfolio CTAs calm, category-aware, and secondary to the project story.
 
 ## Notes
 - Keep the tone focused on marketing site quality, not on inventing product features.

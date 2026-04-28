@@ -8,6 +8,11 @@
 - Language: English only
 - Emojis: None
 
+## Core Narrative
+- Primary story: A dance studio website and dashboard system designed to balance expressive brand energy with clearer booking and operations structure.
+- Business relevance: The work supports both public discovery and behind-the-scenes management across classes, events, workshops, and subscriptions.
+- Split-post logic: Social posts separate the brand website from dashboard and booking-system clarity.
+
 ## Asset Mapping
 - LinkedIn: Project story focused on turning a dance brand into a clearer digital experience
 - Facebook: Clear explanation of the booking experience and studio positioning
@@ -28,7 +33,6 @@ The public-facing side introduces the brand through classes, workshops, events, 
 
 This kind of project works best when brand expression and product logic move together. The site has to inspire people to join, and the platform has to make signups, scheduling, and management feel easy.
 
-Need a stronger digital experience for an active brand? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -44,7 +48,6 @@ MAD was designed as a digital home for a dance studio that offers classes, works
 
 The website leans into a bold visual identity while keeping the journey clear enough for visitors to explore programs, understand the brand, and move toward registration without friction.
 
-Need a more expressive website that still converts? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -59,7 +62,6 @@ A closer look at MAD and the product system behind the brand.
 
 Alongside the public website, the project also includes event cards, booking flows, subscription handling, and an admin dashboard built to support revenue tracking, class management, and everyday operations. The result is a stronger balance between high-energy branding and practical functionality.
 
-Want a better mix of brand and workflow? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -77,7 +79,6 @@ A dance studio website designed to feel bold, rhythmic, and impossible to scroll
 
 Classes, workshops, events, and a visual direction with real stage presence.
 
-Need a brand experience with more energy? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -94,7 +95,6 @@ It also needed booking flows, membership handling, event discovery, and a dashbo
 
 That contrast shaped the whole system.
 
-Need a platform that performs behind the scenes too? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -110,7 +110,6 @@ MAD was designed to make a dance brand feel alive online.
 
 Bold website direction, clearer booking paths, and a stronger first impression for classes, workshops, and events.
 
-Need a more expressive digital brand? Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/d-1.jpg`, `social media/d-2.jpg`
@@ -121,7 +120,6 @@ Creative brands still need operational clarity.
 
 MAD pairs a high-energy front end with dashboards, subscriptions, and booking management behind the scenes.
 
-Want both brand and structure? Visit Craftnotion to explore more.
 
 ## Threads
 ### Post 1
@@ -133,7 +131,6 @@ Some creative projects fail because they choose between expression and usability
 
 MAD needed both. The website had to feel like performance, but the product flow still had to stay clear.
 
-Need a sharper balance? Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/10.jpg`, `social media/11.jpg`, `social media/12.jpg`
@@ -146,7 +143,6 @@ They help people discover events, subscribe, book, and keep coming back without 
 
 That was the product logic behind MAD.
 
-Want a better booking journey? Visit Craftnotion to explore more.
 
 ## Dribbble
 ### Post 1 - Website
@@ -167,7 +163,7 @@ dance website, studio website, web design, creative website, entertainment desig
 
 **CTA**
 
-Need a more expressive website? Visit Craftnotion to explore more.
+Planning a service platform with bookings? Start with brand clarity and operational structure.
 
 ### Post 2 - Dashboard
 
@@ -187,7 +183,7 @@ dashboard design, booking dashboard, admin panel, product ui, saas dashboard, ev
 
 **CTA**
 
-Need a better operations dashboard? Visit Craftnotion to explore more.
+Planning a service platform with bookings? Start with brand clarity and operational structure.
 
 ## Behance
 **Title**
@@ -210,7 +206,7 @@ Web Design, UI Design, Dashboard Direction, Booking Flow Structure
 
 **CTA**
 
-Need a stronger experience for a creative brand? Visit Craftnotion to explore more.
+Planning a service platform with bookings? Start with brand clarity and operational structure.
 
 ## Pinterest
 **Title**
@@ -267,6 +263,11 @@ dance studio website design
 - `Dance studio landing page design for classes, workshops, and events`
 - `MAD booking cards showing event details, pricing, and workshop discovery flow`
 - `Admin dashboard UI for a dance studio with bookings, subscriptions, and revenue tracking`
+
+## CTA Recommendations
+- Use direct Craftnotion CTAs selectively instead of closing every social post with the same line.
+- Let stronger social posts end on the project insight when that feels more premium.
+- Keep portfolio CTAs calm, category-aware, and secondary to the project story.
 
 ## Notes
 - Use brand-energy language for the public website and more product-aware language for the dashboard views.

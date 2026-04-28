@@ -5,11 +5,11 @@ Use this file to capture the inputs needed to generate social media, portfolio, 
 For the full master question set, see [../content-questionnaire.md](../content-questionnaire.md).
 
 ## Basics
-- Project name:
-- Type:
-- Client / Brand:
-- Industry:
-- Stage:
+- Project name: Upskilla
+- Type: Edtech figma designs
+- Client / Brand: Upskilla
+- Industry: Edtech
+- Stage: Completed
 
 ## Context
 - Problem:

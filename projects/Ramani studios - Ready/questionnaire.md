@@ -4,12 +4,14 @@ Use this file to capture the inputs needed to generate social media, portfolio, 
 
 For the full master question set, see [../content-questionnaire.md](../content-questionnaire.md).
 
+refer this website for product understanding: https://www.ramanitalkies.com/
+
 ## Basics
-- Project name:
-- Type:
-- Client / Brand:
-- Industry:
-- Stage:
+- Project name: Ramani studios
+- Type: Showcase Website
+- Client / Brand: Toonpandas
+- Industry: Professional photography and videography for brands, advertising, movies etc
+- Stage: Completed
 
 ## Context
 - Problem:

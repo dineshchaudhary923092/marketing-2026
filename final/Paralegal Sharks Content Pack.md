@@ -9,17 +9,20 @@
 - Emojis: None
 
 ## Core Narrative
-- Primary story: A legal document operations landing page structured around intake clarity, service lanes, and responsible service boundaries.
-- Business relevance: The work helps a sensitive service category feel more credible by explaining workflow and next steps without legal-result claims.
-- Split-post logic: Social posts separate the service overview from intake, document workflow, and trust-boundary details.
+- Primary story: A legal document operations landing page built around intake clarity, service lanes, document workflow, and responsible scope communication.
+- Business relevance: The work helps a sensitive service category feel more credible by explaining process, deliverables, and next steps without drifting into legal-result language.
+- Split-post logic: Social posts separate the overall service-page story from intake flow, scope boundaries, and workflow structure.
 
 ## Asset Mapping
-- LinkedIn: Project story focused on legal operations clarity and intake structure
-- Facebook: Clear explanation of the landing page and service workflow
+- LinkedIn: Landing page story focused on legal operations clarity and intake structure
+- Facebook Post 1: `social media/m1.jpg`, `social media/m2.jpg`, `social media/m3.jpg`, `social media/m4.jpg`, `social media/m5.jpg`
+- Facebook Post 2: `social media/m6.jpg`, `social media/m7.jpg`, `social media/m8.jpg`, `social media/m9.jpg`, `social media/m10.jpg`
 - Instagram Post 1: `social media/m1.jpg`, `social media/m2.jpg`, `social media/m3.jpg`, `social media/m4.jpg`, `social media/m5.jpg`
 - Instagram Post 2: `social media/m6.jpg`, `social media/m7.jpg`, `social media/m8.jpg`, `social media/m9.jpg`, `social media/m10.jpg`
-- X: Short legal operations and landing page posts
-- Threads: Compact observations about trust, boundaries, and structured document workflows
+- X Post 1: `social media/m1.jpg`, `social media/m2.jpg`
+- X Post 2: `social media/m6.jpg`, `social media/m9.jpg`
+- Threads Post 1: `social media/m1.jpg`, `social media/m3.jpg`, `social media/m5.jpg`
+- Threads Post 2: `social media/m6.jpg`, `social media/m8.jpg`, `social media/m10.jpg`
 - Dribbble: `dribbble/cover.jpg`, `dribbble/1.jpg`, `dribbble/2.jpg`, `dribbble/full.jpg`
 - Behance: Full landing page narrative for the legal document operations service
 - Pinterest: Searchable legal landing page / document workflow inspiration copy
@@ -27,16 +30,15 @@
 ## LinkedIn
 **Post**
 
-We designed Paralegal Sharks as a landing page for a legal document operations service built around speed, structure, and clear boundaries.
+We designed Paralegal Sharks as a landing page for a legal document operations service built around structured intake, service clarity, and careful boundaries.
 
-The page explains how users can submit intake details, choose a service lane, organize documents, receive structured output, and understand what the service does and does not provide. Because the legal category depends heavily on trust, the content needed to be direct, transparent, and careful with positioning.
+The page explains how users can choose a service lane, understand the workflow, prepare documents, and move toward submission without unnecessary confusion. In a legal-adjacent category, the website has to do more than look professional. It has to set expectations clearly and make the next step feel controlled.
 
-The result is a landing page that feels organized without becoming cold: clear workflow, visible disclaimers, service-lane framing, FAQ support, and a final intake path that keeps the next step obvious.
-
+The result is a landing page built around workflow visibility, deliverable clarity, FAQ support, and a submission path that feels direct without becoming aggressive.
 
 **Hashtags**
 
-#LandingPageDesign #LegalTech #WebDesign #PortfolioProject
+#LegalWebsite #LandingPageDesign #LegalOperations #WebDesign
 
 ## Facebook
 ### Post 1
@@ -44,10 +46,9 @@ The result is a landing page that feels organized without becoming cold: clear w
 
 **Caption**
 
-Paralegal Sharks was designed as a clear landing page for legal document operations.
+Paralegal Sharks was designed as a landing page for a legal document operations service.
 
-The site presents the service around structured intake, document preparation, packet organization, turnaround expectations, delivery, and revisions. The messaging is careful and transparent, including clear boundaries that the service is not a law firm and does not provide legal advice or representation.
-
+The page presents the offer through structured intake, clear workflow sections, document preparation support, packet organization, and careful service boundaries. In a category like this, trust comes from making the process easy to understand before asking for a submission.
 
 **Hashtags**
 
@@ -60,12 +61,11 @@ The site presents the service around structured intake, document preparation, pa
 
 A closer look at the workflow side of Paralegal Sharks.
 
-The page uses service lanes, deliverable cards, scope boundaries, FAQs, and a guided intake form to make the process easier to understand. For a service like this, clarity is not decoration. It is the core trust layer.
-
+The page uses service lanes, deliverable framing, FAQs, scope boundaries, and a guided intake path to make the experience easier to evaluate. For a service like this, clarity is not just presentation. It is part of credibility.
 
 **Hashtags**
 
-#LegalTechDesign #IntakeForm #WebsiteDesign #PortfolioWork
+#LegalOperations #IntakeForm #WebsiteDesign #LegalTech
 
 ## Instagram
 ### Post 1
@@ -75,30 +75,28 @@ The page uses service lanes, deliverable cards, scope boundaries, FAQs, and a gu
 
 Paralegal Sharks.
 
-A legal document operations landing page designed around structured intake, clear workflow, and careful service boundaries.
+A legal document operations landing page built around structured intake, clear workflow, and careful service boundaries.
 
-Fast to understand. Easy to navigate. Built for trust.
-
+Fast to understand. Easy to follow. Built for trust.
 
 **Hashtags**
 
-#LandingPageDesign #LegalWebsite #WebDesignStudio #ServiceDesign
+#LandingPageDesign #LegalWebsite #ServiceWebsite #WebDesignStudio
 
 ### Post 2
 - Assets: `social media/m6.jpg`, `social media/m7.jpg`, `social media/m8.jpg`, `social media/m9.jpg`, `social media/m10.jpg`
 
 **Caption**
 
-Paralegal Sharks needed to explain the process before asking for the intake.
+Before asking for an intake, the page needed to explain the process clearly.
 
-That shaped the page: workflow, service lanes, deliverables, limits, FAQs, and a clear submission path.
+That shaped Paralegal Sharks: service lanes, workflow steps, deliverables, FAQs, and a direct submission path.
 
 Trust starts with structure.
 
-
 **Hashtags**
 
-#LegalTech #WebsiteDesign #LandingPageUI #CreativePortfolio
+#LegalTech #LandingPageUI #WebsiteDesign #ServiceDesign
 
 ## X
 ### Post 1
@@ -106,20 +104,20 @@ Trust starts with structure.
 
 **Post**
 
-Paralegal Sharks was designed as a legal document operations landing page.
+Legal-adjacent service pages need more than clean design.
 
-The focus was structured intake, clear workflow, service boundaries, and a direct path to submission.
+They need clear scope, clear workflow, and a next step that feels safe to take.
 
+That shaped Paralegal Sharks.
 
 ### Post 2
 - Assets: `social media/m6.jpg`, `social media/m9.jpg`
 
 **Post**
 
-In legal-adjacent services, clarity is part of trust.
+For intake-driven services, clarity is part of trust.
 
-Paralegal Sharks uses workflow steps, service lanes, FAQs, and disclaimers to make the experience easier to understand.
-
+Paralegal Sharks uses service lanes, FAQs, deliverable framing, and visible boundaries to make the process easier to understand.
 
 ## Threads
 ### Post 1
@@ -127,22 +125,22 @@ Paralegal Sharks uses workflow steps, service lanes, FAQs, and disclaimers to ma
 
 **Post**
 
-Some landing pages need to do more than sell.
+Some landing pages need to do more than persuade.
 
-They need to explain scope, reduce confusion, and make the next step feel safe.
+They need to explain scope, reduce uncertainty, and make the next step feel controlled.
 
 That was the direction behind Paralegal Sharks.
-
 
 ### Post 2
 - Assets: `social media/m6.jpg`, `social media/m8.jpg`, `social media/m10.jpg`
 
 **Post**
 
-The strongest intake pages tell users what will happen before they submit anything.
+The strongest intake pages tell people what will happen before they submit anything.
 
-Paralegal Sharks was built around that idea: clear process, clear deliverables, clear boundaries.
+Clear process. Clear deliverables. Clear boundaries.
 
+That is what shaped Paralegal Sharks.
 
 ## Dribbble
 **Title**
@@ -151,13 +149,13 @@ Paralegal Sharks Legal Landing Page Design
 
 **Description**
 
-Paralegal Sharks is a legal document operations landing page designed around structured intake, service lanes, document preparation, packet organization, and clear compliance boundaries.
+Paralegal Sharks is a legal document operations landing page designed around structured intake, service lanes, document preparation, packet organization, and clear scope communication.
 
-The page uses a clean visual system, direct workflow sections, FAQ support, and a visible intake path to make the service easier to understand.
+The page uses a clean visual system, direct workflow sections, FAQ support, and a visible intake path to make the service easier to understand without overstating what it provides.
 
 **Tags**
 
-legal website, landing page design, legaltech, service website, web design, intake form, document workflow, ui design, portfolio, dribbble
+legal website, landing page design, legaltech, service website, web design, intake form, document workflow, legal ui, portfolio, dribbble
 
 **CTA**
 
@@ -172,11 +170,11 @@ Paralegal Sharks: Legal Document Operations Landing Page
 
 Paralegal Sharks is a landing page project for a legal document operations service focused on structured intake, document preparation, organization, delivery, and revisions.
 
-The page needed to explain the offer clearly while maintaining careful boundaries around legal advice and representation. The experience was shaped to help visitors understand the process, select the right service lane, and submit a request with fewer open questions.
+The page needed to explain the offer clearly while maintaining careful boundaries around legal advice and representation. The experience was shaped to help visitors understand the process, choose the right service lane, and submit a request with fewer open questions.
 
 **Creative Direction**
 
-The visual direction is clean, spacious, and controlled, with soft gradients, strong blue calls to action, and restrained section layouts. The tone needed to feel dependable without becoming overly formal.
+The visual direction is clean, spacious, and controlled, with soft gradients, strong blue calls to action, and restrained section layouts. The tone is dependable and direct without becoming overly formal.
 
 **Role**
 
@@ -197,7 +195,7 @@ Paralegal Sharks is a legal document operations landing page design focused on s
 
 **Search Tags**
 
-legal landing page design, legal website design, legaltech ui, intake form design, service website design, document workflow, law firm website inspiration, landing page ui
+legal landing page design, legal website design, legaltech ui, intake form design, service website design, document workflow, legal service website, landing page ui
 
 ## Website SEO Pack
 **SEO Title**

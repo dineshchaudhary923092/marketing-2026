@@ -4,16 +4,18 @@ Use this file to capture the inputs needed to generate social media, portfolio, 
 
 For the full master question set, see [../content-questionnaire.md](../content-questionnaire.md).
 
+refer this website for product understanding: https://www.secondaid.in/
+
 ## Basics
-- Project name:
-- Type:
-- Client / Brand:
-- Industry:
-- Stage:
+- Project name: Second aid
+- Type: Health tech landing page
+- Client / Brand: 
+- Industry: Health Tech
+- Stage: Completed Life
 
 ## Context
 - Problem:
-- Goal:
+- Goal: Mobile Application and landing page for doctors and patients.
 - Audience:
 
 ## Story

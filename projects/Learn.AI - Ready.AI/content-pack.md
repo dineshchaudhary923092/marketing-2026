@@ -8,6 +8,11 @@
 - Language: English only
 - Emojis: None
 
+## Core Narrative
+- Primary story: An AI-assisted learning and assessment platform structured for institutional clarity, dashboards, and assessment workflows.
+- Business relevance: The work helps an education product explain complex AI and admin functions through a more organized interface.
+- Split-post logic: Social posts separate the platform story from assessment, dashboard, and admin workflow angles.
+
 ## Asset Mapping
 - LinkedIn: Product story focused on AI-powered assessment for institutes
 - Facebook: Clear explanation of the platform value for education teams
@@ -28,7 +33,6 @@ The product combines a public website with a dashboard experience focused on exa
 
 The design needed to communicate automation without losing clarity. In an edtech product like this, trust and usability matter just as much as the AI layer.
 
-Need a cleaner product site? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -44,7 +48,6 @@ Learn.AI was designed for institutes that need a better way to handle assessment
 
 The platform brings together AI-powered exam creation, delivery, grading, and analytics in a system that feels more structured and easier to use.
 
-Need a stronger edtech platform? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -59,7 +62,6 @@ A closer look at Learn.AI and the visual direction behind the platform.
 
 The interface was built to feel serious, modern, and institute-ready while keeping the AI features approachable for teams managing exams and student performance.
 
-Need a smarter assessment workflow? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -75,7 +77,6 @@ Learn.AI.
 
 An AI-driven assessment platform designed to help institutes create, deliver, and evaluate exams with more structure.
 
-Need a sharper learning platform? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -90,7 +91,6 @@ Learn.AI needed to feel advanced without feeling complicated.
 
 That balance shaped the visual system, the dashboard flow, and the public-facing presentation.
 
-Need a more credible product experience? Visit Craftnotion to explore more.
 
 **Hashtags**
 
@@ -106,7 +106,6 @@ Learn.AI is an AI-driven assessment platform for institutes.
 
 The focus was exam creation, delivery, grading, and analytics.
 
-Need a cleaner dashboard experience? Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/m4.jpg`, `social media/m5.jpg`, `social media/m6.jpg`
@@ -117,7 +116,6 @@ AI products work best when the automation is obvious but the interface stays cal
 
 That was the direction behind Learn.AI.
 
-Need an AI-first interface? Visit Craftnotion to explore more.
 
 ## Threads
 ### Post 1
@@ -131,7 +129,6 @@ They feel usable.
 
 That was the main benchmark for Learn.AI.
 
-Need more structure in your platform? Visit Craftnotion to explore more.
 
 ### Post 2
 - Assets: `social media/m4.jpg`, `social media/m5.jpg`, `social media/m6.jpg`
@@ -142,7 +139,6 @@ In edtech, the interface has to serve both learning and administration.
 
 Learn.AI was built with that in mind.
 
-Need a clearer admin experience? Visit Craftnotion to explore more.
 
 ## Dribbble
 ### Post 1 - Website
@@ -163,7 +159,7 @@ edtech design, ai product, web design, lms design, education platform, assessmen
 
 **CTA**
 
-Need a stronger edtech platform? Visit Craftnotion to explore more.
+Planning an education platform? Start with assessment clarity and admin structure.
 
 ### Post 2 - Dashboard
 
@@ -183,7 +179,7 @@ dashboard design, web app, product ui, ai platform, learning management, educati
 
 **CTA**
 
-Need an AI-ready product direction? Visit Craftnotion to explore more.
+Planning an education platform? Start with assessment clarity and admin structure.
 
 ## Behance
 **Title**
@@ -206,7 +202,7 @@ Web Design, UI Design, Dashboard Direction, AI Product Structure
 
 **CTA**
 
-Need an AI-ready product direction? Visit Craftnotion to explore more.
+Planning an education platform? Start with assessment clarity and admin structure.
 
 ## Pinterest
 **Title**
@@ -264,6 +260,11 @@ AI assessment platform
 - `Learn.AI product design with analytics and curriculum-aligned features`
 - `Learning management platform interface for institutes`
 - `AI-driven assessment system with clean dashboard presentation`
+
+## CTA Recommendations
+- Use direct Craftnotion CTAs selectively instead of closing every social post with the same line.
+- Let stronger social posts end on the project insight when that feels more premium.
+- Keep portfolio CTAs calm, category-aware, and secondary to the project story.
 
 ## Notes
 - Keep the AI and institute workflow central in public-facing copy.
