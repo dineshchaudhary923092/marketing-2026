@@ -1,20 +1,20 @@
-# Weldex Content Pack
+# Weldex Content Pack — Updated
 
 ## Project Positioning
 - Project: Weldex
-- Angle: Industrial marketing website and landing pages for a welding electrodes manufacturer
-- Voice: Strong, technical, and commercially clear
+- Angle: Industrial website system for a welding electrodes manufacturer
+- Voice: Strong, technical, credible, and commercially clear
 - Perspective: We
 - Language: English only
 - Emojis: None
 
 ## Core Narrative
-- Primary story: An industrial website and landing page system built to present welding electrodes with stronger B2B clarity and credibility.
-- Business relevance: The work makes a technical manufacturing category easier to understand through direct product framing and structured page sections.
-- Split-post logic: Social posts separate the broader website direction from the more product-led landing page system.
+- Primary story: A manufacturing website designed to make welding electrodes, industrial credibility, and product strength easier to understand online.
+- Business relevance: The work gives a technical B2B category a stronger digital presence through clearer product framing, structured sections, and more confident industrial visual direction.
+- Split-post logic: The first social set presents the broader company website and core brand story. The second social set focuses on page-level depth, product-led sections, industrial use cases, and supporting landing-page style screens.
 
 ## Asset Mapping
-- LinkedIn: Industrial website story focused on presenting manufacturing credibility and product clarity
+- LinkedIn: Industrial website story focused on manufacturing credibility, product clarity, and stronger B2B presentation
 - Facebook Post 1: `social media/01.jpg`, `social media/02.jpg`, `social media/03.jpg`, `social media/04.jpg`, `social media/05.jpg`
 - Facebook Post 2: `social media/201.jpg`, `social media/202.jpg`, `social media/203.jpg`, `social media/204.jpg`
 - Instagram Post 1: `social media/01.jpg`, `social media/02.jpg`, `social media/03.jpg`, `social media/04.jpg`, `social media/05.jpg`
@@ -23,22 +23,29 @@
 - X Post 2: `social media/201.jpg`, `social media/204.jpg`
 - Threads Post 1: `social media/03.jpg`, `social media/05.jpg`
 - Threads Post 2: `social media/202.jpg`, `social media/203.jpg`
-- Dribbble: `dribbble/cover.jpg`, `dribbble/01.jpg` to `dribbble/05.jpg`, `dribbble/full.jpg`, `dribbble/mockup.jpg`
-- Behance: Industrial website showcase for the welding electrodes manufacturer
-- Pinterest: Searchable industrial website / manufacturing landing page inspiration copy
+- Dribbble: `dribbble/cover.jpg`, `dribbble/01.jpg`, `dribbble/02.jpg`, `dribbble/03.jpg`, `dribbble/04.jpg`, `dribbble/05.jpg`, `dribbble/full.jpg`, `dribbble/mockup.jpg`
+- Behance: Industrial website showcase covering homepage, about, product range, industries, testing, contact, and career-facing page directions
+- Pinterest: Searchable industrial website / manufacturing website / welding brand inspiration copy
+
+## Visual Read
+- Strong red-and-black industrial contrast gives the brand immediate category signal.
+- Homepage visuals lead with strength, heat, sparks, and heavy-industry atmosphere rather than generic corporate styling.
+- Inner sections balance the intense hero direction with cleaner white layouts for product range, company details, and contact clarity.
+- Supporting screens show broader system thinking: website pages, campaign-style hero variations, industrial use-case sections, and career-oriented landing blocks.
+- Dribbble assets present the project as a complete industrial website direction, not just one landing page.
 
 ## LinkedIn
 **Post**
 
-Weldex needed a marketing website that could make an industrial product category feel clearer, stronger, and more credible online.
+Weldex needed a website that could make a technical manufacturing category feel stronger, clearer, and more credible online.
 
-Because the project centered on welding electrodes, the digital direction had to work differently from a typical SaaS or lifestyle website. We used stronger product framing, direct messaging, industrial visuals, and structured sections that help B2B visitors understand the company, the category, and the offering faster.
+Because the brand operates in industrial welding electrodes, the digital direction had to do more than look polished. It needed to communicate product strength, industrial relevance, quality focus, and business credibility quickly. The website uses stronger visual contrast, clearer section hierarchy, product-led content blocks, and more confident industrial storytelling to make that happen.
 
-For manufacturing websites, clarity is part of credibility.
+For manufacturing websites, clarity is not just a design choice. It is part of how trust gets built.
 
 **Hashtags**
 
-#IndustrialWebsite #ManufacturingWebsite #B2BMarketing #WebDesign
+#IndustrialWebsite #ManufacturingWebsite #B2BWebsite #WebDesign
 
 ## Facebook
 ### Post 1
@@ -46,26 +53,26 @@ For manufacturing websites, clarity is part of credibility.
 
 **Caption**
 
-Weldex was designed as a marketing website for a welding electrodes manufacturer.
+Weldex was designed as an industrial website for a welding electrodes manufacturer.
 
-The visual direction uses industrial contrast, product-led messaging, and clearer content structure to make the brand easier to understand online. The aim was to strengthen digital credibility without making the website feel dense or overly technical.
+The direction combines strong category visuals, cleaner product presentation, and a more structured B2B layout to help the brand feel more credible online. Instead of making the website feel overly technical or crowded, the goal was to present the company, the offering, and the industrial relevance in a way that feels easier to understand.
 
 **Hashtags**
 
-#ManufacturingWebsite #IndustrialDesign #WeldingIndustry #WebDesign
+#IndustrialWebsite #ManufacturingWebsite #WeldingIndustry #B2BDesign
 
 ### Post 2
 - Assets: `social media/201.jpg`, `social media/202.jpg`, `social media/203.jpg`, `social media/204.jpg`
 
 **Caption**
 
-A closer look at the Weldex landing page system.
+A closer look at the broader Weldex page system.
 
-These pages were shaped to present the product category more clearly, support industrial credibility, and give B2B visitors a more direct path through the information. The role of the design was not just to attract attention, but to make the offer easier to understand and act on.
+These screens push the project further through supporting page directions, product-led layouts, industrial use-case sections, quality-focused content, and career-facing blocks. The role of the design was not just to make the brand look stronger, but to make a technical product business feel more organized and easier to explore.
 
 **Hashtags**
 
-#B2BWebsite #IndustrialMarketing #LandingPageDesign #ManufacturingWebsite
+#B2BWebsite #IndustrialMarketing #ManufacturingDesign #WebsiteUI
 
 ## Instagram
 ### Post 1
@@ -75,26 +82,26 @@ These pages were shaped to present the product category more clearly, support in
 
 Weldex.
 
-An industrial website direction for a welding electrodes manufacturer.
+An industrial website direction built for a welding electrodes manufacturer.
 
-Built around stronger product framing, clearer messaging, and a more credible digital presence for a technical B2B category.
+Stronger category signal, clearer product framing, and a more credible digital presence for a technical B2B business.
 
 **Hashtags**
 
-#IndustrialWebsite #ManufacturingWebsite #WeldingIndustry #WebDesign
+#IndustrialWebsite #ManufacturingWebsite #WeldingIndustry #WebsiteDesign
 
 ### Post 2
 - Assets: `social media/201.jpg`, `social media/202.jpg`, `social media/203.jpg`, `social media/204.jpg`
 
 **Caption**
 
-Industrial landing pages do not need to feel heavy to feel credible.
+Industrial websites do not need to feel dull to feel credible.
 
-Weldex uses stronger product sections, clearer content blocks, and a more direct path through the category.
+Weldex uses stronger visual contrast, cleaner content blocks, and clearer page structure to make a technical brand easier to understand.
 
 **Hashtags**
 
-#B2BDesign #LandingPageUI #IndustrialMarketing #WebsiteDesign
+#B2BDesign #IndustrialMarketing #WebDesign #ManufacturingWebsite
 
 ## X
 ### Post 1
@@ -102,9 +109,9 @@ Weldex uses stronger product sections, clearer content blocks, and a more direct
 
 **Post**
 
-Manufacturing websites need more than product lists.
+Manufacturing websites need more than product listings.
 
-They need clearer product framing, stronger structure, and enough credibility to help buyers understand the category quickly.
+They need stronger category signal, clearer structure, and enough credibility to help buyers understand the business quickly.
 
 That shaped Weldex.
 
@@ -113,9 +120,9 @@ That shaped Weldex.
 
 **Post**
 
-Industrial websites can be direct without feeling dull.
+Industrial brands do not need louder websites.
 
-Clear product sections and less clutter go a long way when the category itself is technical.
+They need clearer product framing, stronger page structure, and visuals that actually support trust.
 
 ## Threads
 ### Post 1
@@ -123,55 +130,55 @@ Clear product sections and less clutter go a long way when the category itself i
 
 **Post**
 
-A lot of B2B manufacturing websites hide the useful information behind generic corporate language.
+A lot of industrial websites rely on generic corporate layouts and expect the category to do the rest.
 
-Weldex was designed to keep the product category, brand strength, and next steps clearer.
+Weldex was designed to make the business feel stronger online through clearer product sections, industrial context, and more confident presentation.
 
 ### Post 2
 - Assets: `social media/202.jpg`, `social media/203.jpg`
 
 **Post**
 
-Industrial design does not have to mean gray, dense, and forgettable.
+Technical B2B websites do not have to feel gray, flat, and forgettable.
 
-Sometimes stronger contrast and clearer product structure do more for credibility than adding more text.
+Sometimes stronger contrast, better structure, and more direct content do more for credibility than adding more text.
 
 ## Dribbble
-### Post 1 - Website
+### Post 1 - Website System
 
 **Title**
 
-Weldex Industrial Welding Website Design
+Weldex Industrial Manufacturing Website Design
 
 **Description**
 
-Weldex is an industrial marketing website for a welding electrodes manufacturer.
+Weldex is an industrial website direction for a welding electrodes manufacturer.
 
-The design uses stronger product framing, industrial visuals, direct messaging, and clear page structure to help the brand feel more credible and easier to understand online.
+The project uses stronger industrial contrast, product-led page sections, direct category messaging, and clear B2B structure to present the brand with more credibility online. The design covers homepage storytelling, company information, product range, industrial use cases, quality-focused sections, and contact flows.
 
 **Tags**
 
-industrial website, manufacturing website, welding website, b2b website, web design, landing page design, product website, website ui, industrial ui, dribbble
+industrial website, manufacturing website, welding website, b2b website, web design, industrial ui, website ui, product website, manufacturing ui, dribbble
 
 **CTA**
 
 Planning an industrial website? Start with product clarity and B2B credibility.
 
-### Post 2 - Landing Pages
+### Post 2 - Extended Pages
 
 **Title**
 
-Weldex B2B Manufacturing Landing Page Design
+Weldex B2B Industrial Website Pages and Landing Screens
 
 **Description**
 
-This Weldex landing page direction focuses on presenting welding electrodes through clearer product-led sections, stronger industrial visuals, and a more direct path for B2B visitors.
+This Weldex set explores deeper page directions built around welding electrodes, industrial applications, quality control, supporting page layouts, and career-facing sections.
 
-The goal was to keep the category technical enough to feel credible while making the website easier to scan.
+The goal was to make a technical manufacturing business feel stronger, clearer, and easier to navigate without losing category seriousness.
 
 **Tags**
 
-b2b landing page, manufacturing landing page, industrial ui, welding electrodes, website design, product page design, business website, web ui, industrial website, dribbble
+b2b website, manufacturing landing page, industrial ui, welding electrodes, website design, landing page design, web ui, industrial web design, product page design, dribbble
 
 **CTA**
 
@@ -184,15 +191,15 @@ Weldex: Industrial Website for a Welding Electrodes Manufacturer
 
 **Overview**
 
-Weldex is a marketing website and landing page project for a welding electrodes manufacturer. The project needed to present an industrial product category with more clarity, stronger visual impact, and a cleaner B2B website structure.
+Weldex is an industrial website project built for a welding electrodes manufacturer. The work needed to present a technical product category with stronger visual impact, clearer B2B structure, and a more confident digital identity across homepage sections, supporting pages, and product-led layouts.
 
 **Creative Direction**
 
-The visual direction uses a bold red palette, welding imagery, dark industrial contrast, product-focused sections, and direct messaging. The design aims to make the brand feel strong and credible without burying visitors in technical clutter.
+The visual direction uses a bold red-and-black palette, welding imagery, industrial contrast, stronger typographic hierarchy, and cleaner white content sections to balance intensity with clarity. Product range blocks, industry-use sections, testing-focused content, and contact structures were designed to make the brand feel more established and easier to understand.
 
 **Role**
 
-Website Design, Landing Page Design, B2B Product Messaging, Industrial Web Direction
+Website Design, Landing Page Design, Industrial Web Direction, B2B Product Messaging
 
 **CTA**
 
@@ -205,11 +212,11 @@ Industrial Welding Website Design for Manufacturing Brand
 
 **Description**
 
-Weldex is an industrial website and landing page design for a welding electrodes manufacturer. Useful inspiration for manufacturing website design, industrial landing pages, B2B product websites, welding industry websites, and technical product marketing pages.
+Weldex is an industrial website and product-led page system for a welding electrodes manufacturer. Useful inspiration for manufacturing website design, B2B industrial websites, welding brand websites, industrial landing pages, and technical product presentation online.
 
 **Search Tags**
 
-industrial website design, manufacturing website, welding website, b2b landing page, product website design, industrial web design inspiration
+industrial website design, manufacturing website, welding website, b2b website design, industrial landing page, product website design
 
 ## Website SEO Pack
 **SEO Title**
@@ -218,19 +225,20 @@ Weldex Industrial Welding Website Design
 
 **Meta Description**
 
-Explore Weldex, an industrial marketing website and landing page design for a welding electrodes manufacturer focused on product clarity and B2B credibility.
+Explore Weldex, an industrial website design for a welding electrodes manufacturer focused on product clarity, industrial credibility, and stronger B2B presentation.
 
 **Slug Options**
 
 - `weldex-industrial-website-design`
 - `welding-electrodes-website-design`
-- `manufacturing-landing-page-design`
+- `manufacturing-website-design`
 
 ## CTA Recommendations
-- Use direct Craftnotion CTAs selectively instead of closing every social post with the same line.
-- Let stronger social posts end on the project insight when that feels more premium.
-- Keep portfolio CTAs calm, category-aware, and secondary to the project story.
+- Keep Craftnotion CTAs secondary to the project story.
+- Let stronger posts end on the industry insight when that feels sharper.
+- Use calm, category-aware closing lines instead of repeating the same agency CTA everywhere.
 
 ## Notes
-- Keep performance, certification, compliance, and product-strength claims out unless Weldex provides verified details.
-- Position around digital presentation, B2B clarity, and industrial website design.
+- Keep performance, certification, compliance, and strength claims tied only to what is visibly presented in the supplied project content.
+- Position around industrial presentation, product clarity, stronger B2B structure, and manufacturing website credibility.
+- Treat the second social set as an extension of the website system, not a completely different project.

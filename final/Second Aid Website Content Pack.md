@@ -1,5 +1,4 @@
-
-# Second Aid Website Content Pack (Refactored)
+# Second Aid Website Content Pack
 
 ## Project Positioning
 - **Project:** Second Aid Website
