@@ -29,122 +29,121 @@
 - Pinterest: Search-friendly language learning and travel Korean platform copy
 
 ## LinkedIn
-
 **Post**
 
-We designed Korgee as a Korean learning platform for travelers who want language they can actually use in real situations.
+Language learning platforms often focus on abstract grammar, but travelers need language they can actually use.
 
-Instead of leading with abstract grammar-first lessons, the experience focuses on everyday moments like airport arrivals, cafes, restaurants, hotels, transit, and asking for help. The website and dashboard were designed to make the learning flow feel clear, calm, and useful from the first interaction.
+We designed Korgee to replace traditional flashcards with scenario-based learning. The web and dashboard experience is structured around immediate travel moments — like checking in at hotels, ordering at cafes, and navigating transit. 
 
-The goal was to turn language learning into something more practical and easier to return to.
+The interface features warm peach and orange tones, a cute Shiba mascot, and clear hotspot categories (Airport, Hotel, Restaurant, Cafe) that make the daily learning habit feel clear, calm, and approachable.
+
+How do you design dashboard systems that encourage daily user retention?
 
 **Hashtags**
 
-#ProductDesign #WebDesign #EdTechDesign #UXDesign
+#EdTechDesign #ProductDesign #UXDesign #WebDesign
 
 ## Facebook
-
 ### Post 1
-
 - Assets: `social media/m1.jpg`, `social media/m2.jpg`, `social media/m3.jpg`, `social media/m4.jpg`, `social media/m5.jpg`
 
 **Caption**
 
-Korgee was designed as a practical Korean learning platform for travelers and first-time visitors.
+Speak Korean confidently — from airport arrivals to subway rides. 
 
-The website presents the product around real situations, clear structure, and a soft visual system that keeps the learning experience approachable.
+We designed Korgee to help travelers master real-world Korean through location-based lessons. The friendly, warm interface organizes hotspots like hotels and cafes into bite-sized tasks, making learning intuitive and immediately useful.
+
+Check out the full learning flow: [link]
 
 **Hashtags**
 
-#EdTechWebsite #ProductDesign #WebDesign #LanguageLearning
+#Korgee #EdTechDesign #LanguageLearning #UIUX
 
 ### Post 2
-
 - Assets: `social media/md-1.jpg`, `social media/md-2.jpg`, `social media/md-3.jpg`, `social media/md-4.jpg`, `social media/md-5.jpg`
 
 **Caption**
 
-The dashboard side of Korgee brings more structure to the experience.
+A dashboard built to support daily learning without friction. 
 
-It organizes locations, actions, and learning pathways so the product stays easy to scan while still feeling polished and premium.
+Korgee’s private student dashboard structures progress analytics, interactive task panels, and scenario categories. The visual styling keeps tracking clean so students stay motivated.
 
 **Hashtags**
 
-#DashboardDesign #ProductUI #LearningPlatform #UXDesign
+#DashboardDesign #LanguageApp #ProductUI #EdTech
 
 ## Instagram
-
 ### Post 1
-
 - Assets: `social media/m6.jpg`, `social media/m7.jpg`, `social media/m8.jpg`, `social media/m9.jpg`, `social media/m10.jpg`, `social media/m11.jpg`
 
 **Caption**
 
-Korgee.
+Korgee — a Korean learning platform built for travelers who need real-world conversation. 
 
-A Korean learning platform built around real travel situations and practical phrases.
+The design features a warm peach-toned interface, clean lesson grids, and a friendly Shiba mascot. By structuring the dashboard around concrete locations (like restaurants and transit), we made the learning flow feel immediately practical and easy to navigate.
 
-Clear structure. Warm visuals. A product experience designed to feel useful immediately.
+Save this for your next educational UI project.
+
+[Alt Text: Warm peach-colored homepage for 'Korgee' featuring a cute dog mascot and the headline 'Speak Korean Confidently - From Airport Arrivals to Subway Rides'.]
 
 **Hashtags**
 
-#LanguageLearning #ProductDesign #WebDesign #EdTechDesign
+#LanguageApp #EdTechDesign #UXUI #CreativePortfolio #WebDesignStudio
 
 ### Post 2
-
 - Assets: `social media/md-1.jpg`, `social media/md-2.jpg`, `social media/md-3.jpg`, `social media/md-4.jpg`, `social media/md-5.jpg`
 
 **Caption**
 
-The dashboard was designed to support repeat learning without adding friction.
+Bite-sized learning, structured for progress. 
 
-Locations, actions, and lesson flows stay easy to scan so the interface feels calm, structured, and reliable.
+A closer look at Korgee’s dashboard analytics and interactive task screens. By matching immersive audio prompts with simple progress bars, the UI reduces learning fatigue.
+
+Send this to someone building language learning tools.
+
+[Alt Text: Mobile UI screens of Korgee app displaying study progress meters, interactive speech checkmarks, and clean orange buttons.]
 
 **Hashtags**
 
-#DashboardUI #LearningPlatform #UXDesign #ProductUI
+#AppDesign #DashboardUI #LearningPlatform #UXDesign #KoreanLanguage
 
 ## X
-
 ### Post 1
-
-- Assets: `social media/m1.jpg`, `social media/m2.jpg`, `social media/m3.jpg`
+- Assets: `social media/m1.jpg`, `social media/m2.jpg`, `social media/m3.jpg`, `social media/m4.jpg`, `social media/m5.jpg`
 
 **Post**
 
-Korgee is built around a simple idea: make Korean learning useful in the situations travelers actually face.
+Korgee is a scenario-based Korean learning platform web design. Warm orange tones, clear lesson grids, and a cute dog mascot make language learning practical.
+
+#EdTech #WebDesign
 
 ### Post 2
-
-- Assets: `social media/md-1.jpg`, `social media/md-2.jpg`, `social media/md-3.jpg`
+- Assets: `social media/md-1.jpg`, `social media/md-2.jpg`, `social media/md-3.jpg`, `social media/md-4.jpg`, `social media/md-5.jpg`
 
 **Post**
 
-The strongest learning products do not just teach language.
+A dashboard designed for study habits. Korgee uses simple progress analytics and scenario-based categories to keep daily practice friction-free.
 
-They help users act with confidence in context.
+#UIUX #ProductDesign
 
 ## Threads
-
 ### Post 1
-
-- Assets: `social media/m4.jpg`, `social media/m5.jpg`, `social media/m6.jpg`
+- Assets: `social media/m1.jpg`, `social media/m2.jpg`, `social media/m3.jpg`, `social media/m4.jpg`, `social media/m5.jpg`
 
 **Post**
 
-Most language products start with theory.
+most language apps make you memorize grammar rules you'll never use. 
 
-Korgee starts with situations people actually need.
+for korgee, we built a warm peach-toned website focused on actual travel hotspots — how to order a coffee, buy a train ticket, or check in at a hotel.
 
 ### Post 2
-
-- Assets: `social media/md-4.jpg`, `social media/md-5.jpg`
+- Assets: `social media/md-1.jpg`, `social media/md-2.jpg`, `social media/md-3.jpg`, `social media/md-4.jpg`, `social media/md-5.jpg`
 
 **Post**
 
-A good learning interface should reduce friction, not add it.
+daily learning apps fail when the dashboard feels like chores. 
 
-That is the balance Korgee was built around.
+korgee's interface uses simple progress metrics, audio prompts, and structured pathways to make returning to your lessons feel light and rewarding.
 
 ## Dribbble
 
@@ -213,18 +212,17 @@ Web Design, UI Design, Dashboard Direction, Product Structure
 Planning a learning product? Start with context, structure, and everyday use.
 
 ## Pinterest
-
 **Title**
 
-Korgee Korean Learning Platform Design
+Korgee Korean Learning Platform Website & Dashboard Design
 
 **Description**
 
-Korgee is a Korean learning web app and dashboard design focused on practical travel phrases, contextual lessons, and easy-to-follow learning flows. Useful inspiration for language learning app design, travel learning products, and edtech UI.
+Korgee is a warm and modern Korean learning platform designed for travelers. The UI features a soft peach and orange color scheme, clean structured lesson blocks, a friendly Shiba mascot, and a progress tracking dashboard. Perfect inspiration for language learning web design, edtech UI, and app layout.
 
 **Search Tags**
 
-language learning app, korean learning, edtech ui design, dashboard design, web app design, travel learning, product ui design
+language learning app, edtech website, Korean study UI, peach web design, dashboard UI, mobile app design
 
 ## Website SEO Pack
 
