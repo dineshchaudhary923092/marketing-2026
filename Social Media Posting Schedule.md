@@ -34,7 +34,7 @@ The priority order of project launches has been shuffled according to the creati
 ## Wednesday, July 15, 2026
 
 ### MAD — LinkedIn
-- Assets: `dribbble/cover.jpg`
+- Assets: `dribbble/1.jpg`
 
 **Post**
 
@@ -117,7 +117,7 @@ for lendmatcher, we designed a sage green landing page with distinct paths for f
 ## Friday, July 17, 2026
 
 ### Aanya Taara — LinkedIn
-- Assets: `dribbble/cover.jpg`
+- Assets: `social media/cover.jpg`
 
 **Post**
 
@@ -200,7 +200,7 @@ for learn.ai, we designed a dark-themed website with deep violet glows that focu
 ## Monday, July 20, 2026
 
 ### Lendmatcher — LinkedIn
-- Assets: `social media/cover.jpg`
+- Assets: `dribbble/1.jpg`
 
 **Post**
 
@@ -283,7 +283,7 @@ we designed mylo to focus on the local — a dark green mobile chat app that hel
 ## Wednesday, July 22, 2026
 
 ### Learn AI — LinkedIn
-- Assets: `dribbble/cover.jpg`
+- Assets: `dribbble/1.jpg`
 
 **Post**
 
@@ -366,7 +366,7 @@ for paralegal sharks, we designed a legal tech landing page that organizes docum
 ## Friday, July 24, 2026
 
 ### Mylo — LinkedIn
-- Assets: `dribbble/cover.jpg`
+- Assets: `social media/cover.jpg`
 
 **Post**
 
@@ -532,7 +532,7 @@ for toonpandas, we designed a slate green and beige layout that presents bold an
 ## Wednesday, July 29, 2026
 
 ### Ramani Studios — LinkedIn
-- Assets: `dribbble/cover.jpg`
+- Assets: `dribbble/01.jpg`
 
 **Post**
 
@@ -615,7 +615,7 @@ for weldex, we designed a deep red landing page with cinematic welding imagery a
 ## Friday, July 31, 2026
 
 ### Toonpandas — LinkedIn
-- Assets: `dribbble/cover.jpg`
+- Assets: `dribbble/01.jpg`
 
 **Post**
 
@@ -783,7 +783,7 @@ at craftnotion, we take projects from idea to launch through a structured proces
 ## Wednesday, August 5, 2026
 
 ### United Veteran Systems — LinkedIn
-- Assets: `dribbble/cover.jpg`
+- Assets: `dribbble/main.jpg`
 
 **Post**
 
@@ -862,7 +862,7 @@ for dreamland childcare, we used warm pinks, soft yellows, and friendly typograp
 ## Friday, August 7, 2026
 
 ### Trust — LinkedIn
-- Assets: `Instagram post - MVP - Slide 4.jpg`
+- Assets: `Instagram post - How - Slide 1.jpg`
 
 **Post**
 
@@ -1083,7 +1083,7 @@ See the full website: [link]
 ---
 
 ### Aanya Taara — X
-- Assets: `social media/01.jpg to 09.jpg`
+- Assets: `social media/01.jpg to 08.jpg`
 
 - Assets: `social media/01.jpg` to `social media/09.jpg`
 
@@ -1096,7 +1096,7 @@ Aanya Taara is a boutique resort website design shaped around quiet luxury. Crea
 ---
 
 ### Aanya Taara — Threads
-- Assets: `social media/01.jpg to 09.jpg`
+- Assets: `social media/01.jpg to 08.jpg`
 
 - Assets: `social media/01.jpg` to `social media/09.jpg`
 
@@ -1259,7 +1259,7 @@ Lendmatcher's subscription models (Founder, Business, Investor) are presented in
 ---
 
 ### Learn AI — X
-- Assets: `social media/md-1.jpg to md-4.jpg`
+- Assets: `social media/md-1.jpg to md-5.jpg`
 
 - Assets: `social media/md-1.jpg`, `social media/md-2.jpg`, `social media/md-3.jpg`, `social media/md-4.jpg`
 
@@ -1272,7 +1272,7 @@ Administrative platforms need structure. Learn.Ai utilizes clean analytics cards
 ---
 
 ### Learn AI — Threads
-- Assets: `social media/md-1.jpg to md-4.jpg`
+- Assets: `social media/md-1.jpg to md-5.jpg`
 
 - Assets: `social media/md-1.jpg`, `social media/md-2.jpg`, `social media/md-3.jpg`, `social media/md-4.jpg`
 
@@ -1375,7 +1375,7 @@ in mylo, we designed simple proximity indicators ('3 nearby') alongside location
 ## Friday, August 21, 2026
 
 ### Learn AI — X
-- Assets: `social media/md-1.jpg to md-4.jpg`
+- Assets: `social media/md-1.jpg to md-5.jpg`
 
 - Assets: `social media/md-1.jpg`, `social media/md-2.jpg`, `social media/md-3.jpg`, `social media/md-4.jpg`
 
@@ -1388,7 +1388,7 @@ Administrative platforms need structure. Learn.Ai utilizes clean analytics cards
 ---
 
 ### Learn AI — Threads
-- Assets: `social media/md-1.jpg to md-4.jpg`
+- Assets: `social media/md-1.jpg to md-5.jpg`
 
 - Assets: `social media/md-1.jpg`, `social media/md-2.jpg`, `social media/md-3.jpg`, `social media/md-4.jpg`
 
