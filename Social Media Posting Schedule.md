@@ -1,37 +1,39 @@
 # Social Media Posting Schedule (Next 30-45 Days)
 
-This document outlines the structured posting schedule for the remaining 13 projects over the next 45 days. The posts are staggered across **Instagram**, **Facebook**, **LinkedIn**, **X**, and **Threads** to ensure a versatile and beautiful grid/timeline presentation.
+This document outlines the structured posting schedule for the remaining 13 projects over the next 45 days. The posts are staggered across **Instagram**, **Facebook**, **LinkedIn**, **X**, and **Threads** with explicitly defined image assets to ensure a versatile and beautiful presentation.
 
 ## Schedule Summary Table
 
-| Day | Platforms | Projects & Post Angles |
+| Date | Platforms | Projects & Post Angles |
 | --- | --- | --- |
-| Wednesday, July 15, 2026 | Facebook, Instagram, LinkedIn | Aanya Taara (LinkedIn - Angle 1); Dreamland Childcare (Instagram - Angle 1); Dreamland Childcare (Facebook - Angle 1) |
-| Friday, July 17, 2026 | Facebook, Instagram, LinkedIn | Mylo (LinkedIn - Angle 1); Aanya Taara (Instagram - Angle 1); Aanya Taara (Facebook - Angle 1) |
-| Monday, July 20, 2026 | Facebook, Instagram, LinkedIn | Learn AI (LinkedIn - Angle 1); Mylo (Instagram - Angle 1); Mylo (Facebook - Angle 1) |
-| Wednesday, July 22, 2026 | Facebook, Instagram, LinkedIn | Lendmatcher (LinkedIn - Angle 1); Learn AI (Instagram - Angle 1); Learn AI (Facebook - Angle 1) |
-| Friday, July 24, 2026 | Facebook, Instagram, LinkedIn | MAD (LinkedIn - Angle 1); Lendmatcher (Instagram - Angle 1); Lendmatcher (Facebook - Angle 1) |
-| Monday, July 27, 2026 | Facebook, Instagram, LinkedIn | Paralegal Sharks (LinkedIn - Angle 1); MAD (Instagram - Angle 1); MAD (Facebook - Angle 1) |
-| Wednesday, July 29, 2026 | Facebook, Instagram, LinkedIn | Ramani Studios (LinkedIn - Angle 1); Paralegal Sharks (Instagram - Angle 1); Paralegal Sharks (Facebook - Angle 1) |
-| Friday, July 31, 2026 | Facebook, Instagram, LinkedIn | Second Aid Website (LinkedIn - Angle 1); Ramani Studios (Instagram - Angle 1); Ramani Studios (Facebook - Angle 1) |
-| Monday, August 3, 2026 | Facebook, Instagram, LinkedIn | Toonpandas (LinkedIn - Angle 1); Second Aid Website (Instagram - Angle 1); Second Aid Website (Facebook - Angle 1) |
-| Wednesday, August 5, 2026 | Facebook, Instagram, LinkedIn | Trust (LinkedIn - Angle 1); Toonpandas (Instagram - Angle 1); Toonpandas (Facebook - Angle 1) |
-| Friday, August 7, 2026 | Facebook, Instagram, LinkedIn | United Veteran Systems (LinkedIn - Angle 1); Trust (Instagram - Angle 1); Trust (Facebook - Angle 1) |
-| Monday, August 10, 2026 | Facebook, Instagram, LinkedIn | Weldex (LinkedIn - Angle 1); United Veteran Systems (Instagram - Angle 1); United Veteran Systems (Facebook - Angle 1) |
-| Wednesday, August 12, 2026 | Facebook, Instagram, LinkedIn | Dreamland Childcare (LinkedIn - Angle 1); Weldex (Instagram - Angle 1); Weldex (Facebook - Angle 1) |
-| Friday, August 14, 2026 | Facebook, Instagram, Threads, X | Aanya Taara (X - Angle 1); Aanya Taara (Threads - Angle 1); Dreamland Childcare (Instagram - Angle 2); Dreamland Childcare (Facebook - Angle 2) |
-| Monday, August 17, 2026 | Facebook, Instagram, Threads, X | Mylo (X - Angle 1); Mylo (Threads - Angle 1); Aanya Taara (Instagram - Angle 2); Aanya Taara (Facebook - Angle 2) |
-| Wednesday, August 19, 2026 | Facebook, Instagram, Threads, X | Learn AI (X - Angle 1); Learn AI (Threads - Angle 1); Mylo (Instagram - Angle 2); Mylo (Facebook - Angle 2) |
-| Friday, August 21, 2026 | Facebook, Instagram, Threads, X | Lendmatcher (X - Angle 1); Lendmatcher (Threads - Angle 1); Learn AI (Instagram - Angle 2); Learn AI (Facebook - Angle 2) |
-| Monday, August 24, 2026 | Facebook, Instagram, Threads, X | MAD (X - Angle 1); MAD (Threads - Angle 1); Lendmatcher (Instagram - Angle 2); Lendmatcher (Facebook - Angle 2) |
-| Wednesday, August 26, 2026 | Facebook, Instagram, Threads, X | Paralegal Sharks (X - Angle 1); Paralegal Sharks (Threads - Angle 1); MAD (Instagram - Angle 2); MAD (Facebook - Angle 2); Trust (X - Angle 1); Trust (Threads - Angle 1) |
-| Friday, August 28, 2026 | Facebook, Instagram, Threads, X | Ramani Studios (X - Angle 1); Ramani Studios (Threads - Angle 1); Paralegal Sharks (Instagram - Angle 2); Paralegal Sharks (Facebook - Angle 2); Second Aid Website (Instagram - Angle 2); Second Aid Website (Facebook - Angle 2) |
+| Wednesday, July 15, 2026 | Facebook, Instagram, LinkedIn, Threads, X | Aanya Taara (LinkedIn - Angle 1); Dreamland Childcare (Instagram - Angle 1); Dreamland Childcare (Facebook - Angle 1); Mylo (X - Angle 1); Mylo (Threads - Angle 1) |
+| Friday, July 17, 2026 | Facebook, Instagram, LinkedIn, Threads, X | Mylo (LinkedIn - Angle 1); Aanya Taara (Instagram - Angle 1); Aanya Taara (Facebook - Angle 1); Lendmatcher (X - Angle 1); Lendmatcher (Threads - Angle 1) |
+| Monday, July 20, 2026 | Facebook, Instagram, LinkedIn, Threads, X | Learn AI (LinkedIn - Angle 1); Mylo (Instagram - Angle 1); Mylo (Facebook - Angle 1); Dreamland Childcare (X - Angle 1); Dreamland Childcare (Threads - Angle 1) |
+| Wednesday, July 22, 2026 | Facebook, Instagram, LinkedIn, Threads, X | Lendmatcher (LinkedIn - Angle 1); Learn AI (Instagram - Angle 1); Learn AI (Facebook - Angle 1); Aanya Taara (X - Angle 1); Aanya Taara (Threads - Angle 1) |
+| Friday, July 24, 2026 | Facebook, Instagram, LinkedIn, Threads, X | MAD (LinkedIn - Angle 1); Lendmatcher (Instagram - Angle 1); Lendmatcher (Facebook - Angle 1); Learn AI (X - Angle 1); Learn AI (Threads - Angle 1) |
+| Monday, July 27, 2026 | Facebook, Instagram, LinkedIn, Threads, X | Paralegal Sharks (LinkedIn - Angle 1); MAD (Instagram - Angle 1); MAD (Facebook - Angle 1); Lendmatcher (X - Angle 2); Lendmatcher (Threads - Angle 2) |
+| Wednesday, July 29, 2026 | Facebook, Instagram, LinkedIn, Threads, X | Ramani Studios (LinkedIn - Angle 1); Paralegal Sharks (Instagram - Angle 1); Paralegal Sharks (Facebook - Angle 1); MAD (X - Angle 1); MAD (Threads - Angle 1) |
+| Friday, July 31, 2026 | Facebook, Instagram, LinkedIn, Threads, X | Second Aid Website (LinkedIn - Angle 1); Ramani Studios (Instagram - Angle 1); Ramani Studios (Facebook - Angle 1); Paralegal Sharks (X - Angle 1); Paralegal Sharks (Threads - Angle 1) |
+| Monday, August 3, 2026 | Facebook, Instagram, LinkedIn, Threads, X | Toonpandas (LinkedIn - Angle 1); Second Aid Website (Instagram - Angle 1); Second Aid Website (Facebook - Angle 1); Ramani Studios (X - Angle 1); Ramani Studios (Threads - Angle 1) |
+| Wednesday, August 5, 2026 | Facebook, Instagram, LinkedIn, Threads, X | Trust (LinkedIn - Angle 1); Toonpandas (Instagram - Angle 1); Toonpandas (Facebook - Angle 1); Second Aid Website (X - Angle 1); Second Aid Website (Threads - Angle 1) |
+| Friday, August 7, 2026 | Facebook, Instagram, LinkedIn, Threads, X | United Veteran Systems (LinkedIn - Angle 1); Trust (Instagram - Angle 1); Trust (Facebook - Angle 1); Toonpandas (X - Angle 1); Toonpandas (Threads - Angle 1) |
+| Monday, August 10, 2026 | Facebook, Instagram, LinkedIn, Threads, X | Weldex (LinkedIn - Angle 1); United Veteran Systems (Instagram - Angle 1); United Veteran Systems (Facebook - Angle 1); Trust (X - Angle 1); Trust (Threads - Angle 1) |
+| Wednesday, August 12, 2026 | Facebook, Instagram, LinkedIn, Threads, X | Dreamland Childcare (LinkedIn - Angle 1); Weldex (Instagram - Angle 1); Weldex (Facebook - Angle 1); United Veteran Systems (X - Angle 1); United Veteran Systems (Threads - Angle 1) |
+| Friday, August 14, 2026 | Facebook, Instagram, Threads, X | Aanya Taara (X - Angle 2); Aanya Taara (Threads - Angle 2); Dreamland Childcare (Instagram - Angle 2); Dreamland Childcare (Facebook - Angle 2); Weldex (X - Angle 1); Weldex (Threads - Angle 1) |
+| Monday, August 17, 2026 | Facebook, Instagram, Threads, X | Mylo (X - Angle 2); Mylo (Threads - Angle 2); Aanya Taara (Instagram - Angle 2); Aanya Taara (Facebook - Angle 2); Dreamland Childcare (X - Angle 2); Dreamland Childcare (Threads - Angle 2) |
+| Wednesday, August 19, 2026 | Facebook, Instagram, Threads, X | Learn AI (X - Angle 2); Learn AI (Threads - Angle 2); Mylo (Instagram - Angle 2); Mylo (Facebook - Angle 2); Weldex (X - Angle 2); Weldex (Threads - Angle 2) |
+| Friday, August 21, 2026 | Facebook, Instagram, Threads, X | Lendmatcher (X - Angle 2); Lendmatcher (Threads - Angle 2); Learn AI (Instagram - Angle 2); Learn AI (Facebook - Angle 2); United Veteran Systems (X - Angle 2); United Veteran Systems (Threads - Angle 2) |
+| Monday, August 24, 2026 | Facebook, Instagram, Threads, X | MAD (X - Angle 2); MAD (Threads - Angle 2); Lendmatcher (Instagram - Angle 2); Lendmatcher (Facebook - Angle 2); Toonpandas (X - Angle 2); Toonpandas (Threads - Angle 2) |
+| Wednesday, August 26, 2026 | Facebook, Instagram, Threads, X | Paralegal Sharks (X - Angle 2); Paralegal Sharks (Threads - Angle 2); MAD (Instagram - Angle 2); MAD (Facebook - Angle 2); Second Aid Website (X - Angle 2); Second Aid Website (Threads - Angle 2) |
+| Friday, August 28, 2026 | Facebook, Instagram, Threads, X | Ramani Studios (X - Angle 2); Ramani Studios (Threads - Angle 2); Paralegal Sharks (Instagram - Angle 2); Paralegal Sharks (Facebook - Angle 2); Second Aid Website (Instagram - Angle 2); Second Aid Website (Facebook - Angle 2) |
 
 ---
 
 ## Wednesday, July 15, 2026
 
 ### Aanya Taara — LinkedIn
+- Assets: `dribbble/cover.jpg`
+
 **Post**
 
 The website is the first touchpoint of quiet luxury. 
@@ -84,9 +86,35 @@ Book a tour or explore the website details: [link]
 
 ---
 
+### Mylo — X
+
+- Assets: `social media/01.jpg`, `social media/03.jpg`
+
+**Post**
+
+Mylo is a location-aware mobile chat app design. Dark green layout, mint buttons, and clean proximity buddy cards make coordinating meetups simple.
+
+#AppDesign #MobileUI
+
+---
+
+### Mylo — Threads
+
+- Assets: `social media/01.jpg`, `social media/03.jpg`
+
+**Post**
+
+most social apps feel too global. 
+
+we designed mylo to focus on the local — a dark green mobile chat app that helps you find nearby buddies (0.8 km away) and active neighborhood groups.
+
+---
+
 ## Friday, July 17, 2026
 
 ### Mylo — LinkedIn
+- Assets: `dribbble/cover.jpg`
+
 **Post**
 
 In a crowded messaging market, product design must prioritize immediate trust and location-based utility.
@@ -139,9 +167,35 @@ Read more about our approach to hospitality web design: [link]
 
 ---
 
+### Lendmatcher — X
+
+- Assets: `social media/8.jpg`, `social media/9.jpg`
+
+**Post**
+
+Lendmatcher is an AI-assisted funding platform web design. Soft sage green tones and a structured multi-audience portal build trust for startups & investors.
+
+#Fintech #UIUX
+
+---
+
+### Lendmatcher — Threads
+
+- Assets: `social media/8.jpg`, `social media/9.jpg`
+
+**Post**
+
+funding platforms get confusing when they try to talk to startups and investors in the same breath. 
+
+for lendmatcher, we designed a sage green landing page with distinct paths for founders and lenders, making the next step obvious for both.
+
+---
+
 ## Monday, July 20, 2026
 
 ### Learn AI — LinkedIn
+- Assets: `dribbble/cover.jpg`
+
 **Post**
 
 Designing for AI automation requires balancing technical scale with clean usability.
@@ -194,9 +248,35 @@ Learn more about the mobile UX: [link]
 
 ---
 
+### Dreamland Childcare — X
+
+- Assets: `social media/cover.jpg`, `social media/m1.jpg` to `social media/m8.jpg`
+
+**Post**
+
+Dreamland Childcare is a warm, parent-first preschool website design. Soft pink and yellow tones combined with a structured layout make evaluating programs easy.
+
+#WebDesign #EdTech
+
+---
+
+### Dreamland Childcare — Threads
+
+- Assets: `social media/cover.jpg`, `social media/m1.jpg` to `social media/m8.jpg`
+
+**Post**
+
+when parents look for childcare, they need reassurance first. 
+
+for dreamland childcare, we used warm pinks, soft yellows, and friendly typography to make the website feel like a welcoming classroom, while keeping admissions info front and center.
+
+---
+
 ## Wednesday, July 22, 2026
 
 ### Lendmatcher — LinkedIn
+- Assets: `social media/cover.jpg`
+
 **Post**
 
 A funding platform is only as good as its clarity. If the interface is too complex, both startups and investors leave.
@@ -249,9 +329,35 @@ See the full platform showcase: [link]
 
 ---
 
+### Aanya Taara — X
+
+- Assets: `social media/01.jpg` to `social media/09.jpg`
+
+**Post**
+
+Aanya Taara is a boutique resort website design shaped around quiet luxury. Cream tones, forest green accents, and a spacious grid let the photography lead.
+
+#WebDesign #UIUX
+
+---
+
+### Aanya Taara — Threads
+
+- Assets: `social media/01.jpg` to `social media/09.jpg`
+
+**Post**
+
+we wanted the website for aanya taara in ooty to feel just as calm as checking in. 
+
+no heavy popups or crowded grids. just a spacious, cream-and-forest-green layout that lets the resort's photography do the talking.
+
+---
+
 ## Friday, July 24, 2026
 
 ### MAD — LinkedIn
+- Assets: `dribbble/cover.jpg`
+
 **Post**
 
 A great service brand needs a digital presence that balances expressive energy with practical operations.
@@ -304,9 +410,35 @@ See the Lendmatcher pricing options: [link]
 
 ---
 
+### Learn AI — X
+
+- Assets: `social media/m1.jpg`, `social media/m2.jpg`, `social media/m3.jpg`
+
+**Post**
+
+Learn.Ai is an AI exam generator website design. Technical dark theme, purple glows, and clean landing sections make administrative tools feel modern.
+
+#AIDesign #EdTech
+
+---
+
+### Learn AI — Threads
+
+- Assets: `social media/m1.jpg`, `social media/m2.jpg`, `social media/m3.jpg`
+
+**Post**
+
+schools need AI tools that feel secure and usable. 
+
+for learn.ai, we designed a dark-themed website with deep violet glows that focuses on scaling test generation and automated grading for large school boards.
+
+---
+
 ## Monday, July 27, 2026
 
 ### Paralegal Sharks — LinkedIn
+- Assets: `dribbble/cover.jpg`
+
 **Post**
 
 Entrepreneurs and investors spend too much time delayed by traditional law-firm documentation queues.
@@ -359,9 +491,35 @@ See the full website: [link]
 
 ---
 
+### Lendmatcher — X
+
+- Assets: `social media/cover.jpg`, `social media/full.jpg`
+
+**Post**
+
+Finance platforms need transparent pricing. Lendmatcher displays Founder, Business, and Investor subscription tiers in a clean, comparative layout.
+
+#WebDesign #SaaS
+
+---
+
+### Lendmatcher — Threads
+
+- Assets: `social media/cover.jpg`, `social media/full.jpg`
+
+**Post**
+
+trust in finance is built on pricing clarity. 
+
+we laid out lendmatcher's plans (Founder, Property, Business, Investor) in a clean grid with clear pricing and feature breakdowns, wrapped in a calm, modern color palette.
+
+---
+
 ## Wednesday, July 29, 2026
 
 ### Ramani Studios — LinkedIn
+- Assets: `dribbble/cover.jpg`
+
 **Post**
 
 A media production website must let the creative work be the hero. 
@@ -414,9 +572,35 @@ Explore the deal organization workflow: [link]
 
 ---
 
+### MAD — X
+
+- Assets: `social media/1.jpg`, `social media/4.jpg`, `social media/5.jpg`
+
+**Post**
+
+MAD is a dance studio website and admin system design. The dark, high-contrast layout and warm coral accents bring brand energy to class discovery.
+
+#WebDesign #BrandIdentity
+
+---
+
+### MAD — Threads
+
+- Assets: `social media/1.jpg`, `social media/4.jpg`, `social media/5.jpg`
+
+**Post**
+
+service businesses need more than pretty homepages. 
+
+for mad dallas, we designed a dark, high-contrast website that channels the energy of a dance class while keeping booking and workshop registration simple.
+
+---
+
 ## Friday, July 31, 2026
 
 ### Second Aid Website — LinkedIn
+- Assets: `dribbble/cover.jpg`
+
 **Post**
 
 In healthtech, clarity is directly tied to platform trust. If a landing page feels cluttered, visitors leave.
@@ -469,9 +653,35 @@ Book a podcast or schedule a meeting: [link]
 
 ---
 
+### Paralegal Sharks — X
+
+- Assets: `social media/m3.jpg`, `social media/m4.jpg`
+
+**Post**
+
+Paralegal Sharks is a legal tech document platform web design. Structured Service Lanes and a clean blue layout organize files and deal folders.
+
+#LegalTech #WebDesign
+
+---
+
+### Paralegal Sharks — Threads
+
+- Assets: `social media/m3.jpg`, `social media/m4.jpg`
+
+**Post**
+
+founders shouldn't have to wait weeks for simple contract structures. 
+
+for paralegal sharks, we designed a legal tech landing page that organizes document collection into clear "Service Lanes" — from business formation to real estate files.
+
+---
+
 ## Monday, August 3, 2026
 
 ### Toonpandas — LinkedIn
+- Assets: `dribbble/cover.jpg`
+
 **Post**
 
 Video content shouldn't just look good — it has to drive strategy. 
@@ -524,9 +734,35 @@ See the live website structure: [link]
 
 ---
 
+### Ramani Studios — X
+
+- Assets: `social media/01.jpg`, `social media/03.jpg`
+
+**Post**
+
+Ramani Talkies is a media production studio landing page design. Vibrant orange-red gradients, bold typography, and a central cinema camera highlight video services.
+
+#WebDesign #Portfolio
+
+---
+
+### Ramani Studios — Threads
+
+- Assets: `social media/01.jpg`, `social media/03.jpg`
+
+**Post**
+
+creative agencies don't need boring corporate homepages. 
+
+for ramani talkies, we used a massive orange-to-red gradient and placed a professional cinema camera front and center to showcase their videography work instantly.
+
+---
+
 ## Wednesday, August 5, 2026
 
 ### Trust — LinkedIn
+- Assets: `Instagram post - MVP - Slide 4.jpg`
+
 **Post**
 
 Building great products starts with a clear, predictable process. 
@@ -579,9 +815,35 @@ See our work and meet the team: [link]
 
 ---
 
+### Second Aid Website — X
+
+- Assets: `social media/201.jpg`, `social media/01.jpg`
+
+**Post**
+
+Second Aid is a healthcare website landing page design. Trustworthy blue grids, mobile app previews, and clear download badges make app access direct.
+
+#HealthTech #WebDesign
+
+---
+
+### Second Aid Website — Threads
+
+- Assets: `social media/201.jpg`, `social media/01.jpg`
+
+**Post**
+
+healthtech landing pages must get straight to the point. 
+
+for the second aid website, we used a clean blue grid layout that displays the mobile app mockups and download store buttons right next to the main headline.
+
+---
+
 ## Friday, August 7, 2026
 
 ### United Veteran Systems — LinkedIn
+- Assets: `dribbble/cover.jpg`
+
 **Post**
 
 In real estate, when the decision involves property and investment, trust cannot be decoration.
@@ -630,9 +892,35 @@ See the full workflow slides: [link]
 
 ---
 
+### Toonpandas — X
+
+- Assets: `social media/01.jpg`, `social media/03.jpg`
+
+**Post**
+
+ToonPandas is a creative production studio website design. Slate green and beige columns organize animation and film portfolios into a strategic layout.
+
+#AnimationStudio #WebDesign
+
+---
+
+### Toonpandas — Threads
+
+- Assets: `social media/01.jpg`, `social media/03.jpg`
+
+**Post**
+
+creative portfolios shouldn't be chaotic. 
+
+for toonpandas, we designed a slate green and beige layout that presents bold animation and video projects inside organized columns, matching creativity with strategy.
+
+---
+
 ## Monday, August 10, 2026
 
 ### Weldex — LinkedIn
+- Assets: `dribbble/cover.jpg`
+
 **Post**
 
 For industrial manufacturing websites, clarity is not just a design choice. It is how trust is built.
@@ -685,9 +973,39 @@ Book a strategy call: [link]
 
 ---
 
+### Trust — X
+- Assets: `Instagram post - How - Slide 1.jpg`
+
+**Post**
+
+How Craftnotion takes a project from idea to launch. A clearer process leads to clearer execution. 
+
+1. Discovery
+2. Scope definition
+3. Design
+4. Build
+5. Launch
+
+#ProductStrategy #SaaS
+
+---
+
+### Trust — Threads
+- Assets: `Instagram post - How - Slide 1.jpg`
+
+**Post**
+
+we don't believe in jumping straight into code. 
+
+at craftnotion, we take projects from idea to launch through a structured process: discovery, scope planning, ui/ux design, building, and launch support. a clearer process leads to clearer execution.
+
+---
+
 ## Wednesday, August 12, 2026
 
 ### Dreamland Childcare — LinkedIn
+- Assets: `social media/cover.jpg`
+
 **Post**
 
 A preschool website needs to build parental trust before they ever walk through the door.
@@ -740,27 +1058,53 @@ Request a quote: [link]
 
 ---
 
-## Friday, August 14, 2026
+### United Veteran Systems — X
 
-### Aanya Taara — X
-- Assets: `social media/01.jpg` to `social media/09.jpg`
+- Assets: `social media/01.jpg`, `social media/03.jpg`
 
 **Post**
 
-Aanya Taara is a boutique resort website design shaped around quiet luxury. Cream tones, forest green accents, and a spacious grid let the photography lead.
+United Veteran Systems is a veteran housing property website design. Structured process columns and a sunset backdrop present opportunities responsibly.
 
-#WebDesign #UIUX
+#RealEstate #WebDesign
+
+---
+
+### United Veteran Systems — Threads
+
+- Assets: `social media/01.jpg`, `social media/03.jpg`
+
+**Post**
+
+when a website helps people make serious decisions about their property, trust is everything. 
+
+for united veteran systems, we designed a sunset-backed real estate landing page that focuses on evaluation, housing strategy, and funding direction in a clear, responsible format.
+
+---
+
+## Friday, August 14, 2026
+
+### Aanya Taara — X
+
+- Assets: `social media/201.jpg` to `social media/203.jpg`
+
+**Post**
+
+Good hospitality design is about pacing. Aanya Taara's web interface uses calm serif typography and minimal grids to mirror the resort's physical atmosphere.
+
+#UIDesign #Portfolio
 
 ---
 
 ### Aanya Taara — Threads
-- Assets: `social media/01.jpg` to `social media/09.jpg`
+
+- Assets: `social media/201.jpg` to `social media/203.jpg`
 
 **Post**
 
-we wanted the website for aanya taara in ooty to feel just as calm as checking in. 
+so much of premium design is about restraint. 
 
-no heavy popups or crowded grids. just a spacious, cream-and-forest-green layout that lets the resort's photography do the talking.
+for aanya taara, we let the typography and serene pool views carry the mood. if the digital experience feels rushed, you've already lost the hospitality story.
 
 ---
 
@@ -798,27 +1142,53 @@ Dreamland Childcare's website uses soft yellow and pink tones, friendly icons, a
 
 ---
 
-## Monday, August 17, 2026
+### Weldex — X
 
-### Mylo — X
-- Assets: `social media/01.jpg`, `social media/03.jpg`
+- Assets: `social media/201.jpg`, `social media/203.jpg`
 
 **Post**
 
-Mylo is a location-aware mobile chat app design. Dark green layout, mint buttons, and clean proximity buddy cards make coordinating meetups simple.
+Weldex is an industrial welding manufacturer website design. Deep red theme, sparks imagery, and bold headlines highlight engineering strength.
 
-#AppDesign #MobileUI
+#IndustrialDesign #WebDesign
+
+---
+
+### Weldex — Threads
+
+- Assets: `social media/201.jpg`, `social media/203.jpg`
+
+**Post**
+
+industrial websites are usually text-heavy and hard to read. 
+
+for weldex, we designed a deep red landing page with cinematic welding imagery and bold white typography that makes technical product strength stand out instantly.
+
+---
+
+## Monday, August 17, 2026
+
+### Mylo — X
+
+- Assets: `social media/04.jpg`, `social media/05.jpg`
+
+**Post**
+
+Social apps need clear privacy boundaries. Mylo integrates general distance indicators (0.8 km) with easy location-hide controls.
+
+#UIUX #Messaging
 
 ---
 
 ### Mylo — Threads
-- Assets: `social media/01.jpg`, `social media/03.jpg`
+
+- Assets: `social media/04.jpg`, `social media/05.jpg`
 
 **Post**
 
-most social apps feel too global. 
+location sharing is a sensitive design challenge. 
 
-we designed mylo to focus on the local — a dark green mobile chat app that helps you find nearby buddies (0.8 km away) and active neighborhood groups.
+in mylo, we designed simple proximity indicators ('3 nearby') alongside location-hidden toggles, so users always control how much data they share.
 
 ---
 
@@ -856,27 +1226,53 @@ Aanya Taara’s web design uses a softer, more intentional browsing pace, clean 
 
 ---
 
-## Wednesday, August 19, 2026
+### Dreamland Childcare — X
 
-### Learn AI — X
-- Assets: `social media/m1.jpg`, `social media/m2.jpg`, `social media/m3.jpg`
+- Assets: `social media/m1.jpg` to `social media/m8.jpg`
 
 **Post**
 
-Learn.Ai is an AI exam generator website design. Technical dark theme, purple glows, and clean landing sections make administrative tools feel modern.
+Preschool websites must combine emotional warmth with practical details. Dreamland uses friendly illustrations and clear CTA paths for tour booking.
 
-#AIDesign #EdTech
+#UIUX #Childcare
+
+---
+
+### Dreamland Childcare — Threads
+
+- Assets: `social media/m1.jpg` to `social media/m8.jpg`
+
+**Post**
+
+designing for education isn't just about cute illustrations. 
+
+parents need to quickly see age ranges (2-4 years), tour times, and safety details. we balanced that structural clarity with soft, friendly visual cues.
+
+---
+
+## Wednesday, August 19, 2026
+
+### Learn AI — X
+
+- Assets: `social media/md-1.jpg`, `social media/md-2.jpg`, `social media/md-3.jpg`, `social media/md-4.jpg`
+
+**Post**
+
+Administrative platforms need structure. Learn.Ai utilizes clean analytics cards and platform usage graphs to present school data clearly in dark mode.
+
+#Dashboard #UIUX
 
 ---
 
 ### Learn AI — Threads
-- Assets: `social media/m1.jpg`, `social media/m2.jpg`, `social media/m3.jpg`
+
+- Assets: `social media/md-1.jpg`, `social media/md-2.jpg`, `social media/md-3.jpg`, `social media/md-4.jpg`
 
 **Post**
 
-schools need AI tools that feel secure and usable. 
+dark mode dashboards can easily get messy with too much data. 
 
-for learn.ai, we designed a dark-themed website with deep violet glows that focuses on scaling test generation and automated grading for large school boards.
+we kept learn.ai clean by chunking student stats, test counts, and platform usage charts into separate cards with generous spacing.
 
 ---
 
@@ -914,27 +1310,53 @@ Mylo balances proximity tools with user safety. Proximity signals are presented 
 
 ---
 
-## Friday, August 21, 2026
+### Weldex — X
 
-### Lendmatcher — X
-- Assets: `social media/8.jpg`, `social media/9.jpg`
+- Assets: `social media/202.jpg`, `social media/204.jpg`
 
 **Post**
 
-Lendmatcher is an AI-assisted funding platform web design. Soft sage green tones and a structured multi-audience portal build trust for startups & investors.
+Clarity matters in manufacturing. Weldex uses structured product columns and high-impact burgundy layouts to organize technical specifications.
 
-#Fintech #UIUX
+#UIUX #Manufacturing
+
+---
+
+### Weldex — Threads
+
+- Assets: `social media/202.jpg`, `social media/204.jpg`
+
+**Post**
+
+we wanted weldex to feel like a modern manufacturing leader. 
+
+we structured the page around clear headlines like "forging stronger connections" and direct quote buttons, making it simple for B2B buyers to request quotes.
+
+---
+
+## Friday, August 21, 2026
+
+### Lendmatcher — X
+
+- Assets: `social media/cover.jpg`, `social media/full.jpg`
+
+**Post**
+
+Finance platforms need transparent pricing. Lendmatcher displays Founder, Business, and Investor subscription tiers in a clean, comparative layout.
+
+#WebDesign #SaaS
 
 ---
 
 ### Lendmatcher — Threads
-- Assets: `social media/8.jpg`, `social media/9.jpg`
+
+- Assets: `social media/cover.jpg`, `social media/full.jpg`
 
 **Post**
 
-funding platforms get confusing when they try to talk to startups and investors in the same breath. 
+trust in finance is built on pricing clarity. 
 
-for lendmatcher, we designed a sage green landing page with distinct paths for founders and lenders, making the next step obvious for both.
+we laid out lendmatcher's plans (Founder, Property, Business, Investor) in a clean grid with clear pricing and feature breakdowns, wrapped in a calm, modern color palette.
 
 ---
 
@@ -972,27 +1394,53 @@ Alongside the public landing page, Learn.Ai features a private dashboard for tea
 
 ---
 
-## Monday, August 24, 2026
+### United Veteran Systems — X
 
-### MAD — X
-- Assets: `social media/1.jpg`, `social media/4.jpg`, `social media/5.jpg`
+- Assets: `social media/04.jpg`, `social media/05.jpg`
 
 **Post**
 
-MAD is a dance studio website and admin system design. The dark, high-contrast layout and warm coral accents bring brand energy to class discovery.
+Property decisions need trust. United Veteran Systems uses clear qualification steps and FAQ blocks instead of sales pitches.
 
-#WebDesign #BrandIdentity
+#UIUX #TrustDesign
+
+---
+
+### United Veteran Systems — Threads
+
+- Assets: `social media/04.jpg`, `social media/05.jpg`
+
+**Post**
+
+real estate sites often overload users with hype. 
+
+we kept united veteran systems clean and direct, relying on simple process blocks, qualification forms, and detailed FAQs so landlords know exactly what the next step looks like.
+
+---
+
+## Monday, August 24, 2026
+
+### MAD — X
+
+- Assets: `social media/10.jpg`, `social media/11.jpg`, `social media/12.jpg`, `social media/d-1.jpg`, `social media/d-2.jpg`, `social media/d-3.jpg`
+
+**Post**
+
+Behind the scenes of MAD. The admin dashboard organizes customer details and class bookings (Total Customers: 128) in a dark, structured layout.
+
+#DashboardUI #UIUX
 
 ---
 
 ### MAD — Threads
-- Assets: `social media/1.jpg`, `social media/4.jpg`, `social media/5.jpg`
+
+- Assets: `social media/10.jpg`, `social media/11.jpg`, `social media/12.jpg`, `social media/d-1.jpg`, `social media/d-2.jpg`, `social media/d-3.jpg`
 
 **Post**
 
-service businesses need more than pretty homepages. 
+the operations side of a dance studio is heavy. 
 
-for mad dallas, we designed a dark, high-contrast website that channels the energy of a dance class while keeping booking and workshop registration simple.
+we built the mad admin dashboard to handle customer profiles, workshop schedules (Salsa, Zumba), and revenue metrics in a clean, tabular interface.
 
 ---
 
@@ -1030,27 +1478,53 @@ Lendmatcher's subscription models (Founder, Business, Investor) are presented in
 
 ---
 
-## Wednesday, August 26, 2026
+### Toonpandas — X
 
-### Paralegal Sharks — X
-- Assets: `social media/m3.jpg`, `social media/m4.jpg`
+- Assets: `social media/04.jpg`, `social media/05.jpg`
 
 **Post**
 
-Paralegal Sharks is a legal tech document platform web design. Structured Service Lanes and a clean blue layout organize files and deal folders.
+Creative work needs clear pathways. ToonPandas' service grids make browsing 2D/3D animation, event coverage, and corporate films direct for brands.
 
-#LegalTech #WebDesign
+#UIUX #Portfolio
+
+---
+
+### Toonpandas — Threads
+
+- Assets: `social media/04.jpg`, `social media/05.jpg`
+
+**Post**
+
+we wanted toonpandas' video reels to be the main event. 
+
+we kept the rest of the interface simple, using clean type hierarchies and direct meeting forms so brands can move from watching our reel to booking a call instantly.
+
+---
+
+## Wednesday, August 26, 2026
+
+### Paralegal Sharks — X
+
+- Assets: `social media/m1.jpg`, `social media/m2.jpg`
+
+**Post**
+
+No more law-firm delays. Paralegal Sharks uses automated intake forms and clear progress milestones to turn documents around in 24-72 hours.
+
+#UIUX #SaaSDesign
 
 ---
 
 ### Paralegal Sharks — Threads
-- Assets: `social media/m3.jpg`, `social media/m4.jpg`
+
+- Assets: `social media/m1.jpg`, `social media/m2.jpg`
 
 **Post**
 
-founders shouldn't have to wait weeks for simple contract structures. 
+the magic of document automation is in the intake. 
 
-for paralegal sharks, we designed a legal tech landing page that organizes document collection into clear "Service Lanes" — from business formation to real estate files.
+we built paralegal sharks to walk users through simple prompts, triaging missing info, and delivering attorney-ready bundles in a structured online portal.
 
 ---
 
@@ -1088,51 +1562,53 @@ MAD's admin dashboard streamlines day-to-day operations: managing customer lists
 
 ---
 
-### Trust — X
+### Second Aid Website — X
+
+- Assets: `social media/202.jpg`, `social media/02.jpg`
+
 **Post**
 
-How Craftnotion takes a project from idea to launch. A clearer process leads to clearer execution. 
+Healthcare marketing needs to build trust. Second Aid uses simple icons for 24/7 care and digital record security to reassure visitors.
 
-1. Discovery
-2. Scope definition
-3. Design
-4. Build
-5. Launch
-
-#ProductStrategy #SaaS
+#UIUX #ProductLanding
 
 ---
 
-### Trust — Threads
+### Second Aid Website — Threads
+
+- Assets: `social media/202.jpg`, `social media/02.jpg`
+
 **Post**
 
-we don't believe in jumping straight into code. 
+trust isn't just about soft colors. 
 
-at craftnotion, we take projects from idea to launch through a structured process: discovery, scope planning, ui/ux design, building, and launch support. a clearer process leads to clearer execution.
+we structured second aid's benefits section around concrete features — secure digital records and 24/7 doctor chat — so visitors immediately understand the app's value.
 
 ---
 
 ## Friday, August 28, 2026
 
 ### Ramani Studios — X
-- Assets: `social media/01.jpg`, `social media/03.jpg`
+
+- Assets: `social media/04.jpg`, `social media/05.jpg`
 
 **Post**
 
-Ramani Talkies is a media production studio landing page design. Vibrant orange-red gradients, bold typography, and a central cinema camera highlight video services.
+Media websites need to let the work speak. Ramani Studios uses minimal text badges and a high-contrast layout to keep the focus on booking creative projects.
 
-#WebDesign #Portfolio
+#UIUX #PodcastStudio
 
 ---
 
 ### Ramani Studios — Threads
-- Assets: `social media/01.jpg`, `social media/03.jpg`
+
+- Assets: `social media/04.jpg`, `social media/05.jpg`
 
 **Post**
 
-creative agencies don't need boring corporate homepages. 
+the goal of a studio site is getting bookings. 
 
-for ramani talkies, we used a massive orange-to-red gradient and placed a professional cinema camera front and center to showcase their videography work instantly.
+we kept ramani talkies' layout extremely clean, using bold white headers and a clear "Book A Podcast" action button so prospective clients don't get lost in filler text.
 
 ---
 
